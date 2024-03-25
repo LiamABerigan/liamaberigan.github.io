@@ -13,7 +13,7 @@ output:
 <div class = row>
 <div class = col-md-4>
 <center>
-![<br>An American Woodcock forages in a swamp during an early spring snowfall](images/woodcock_circle2.png)
+![<br><font size = "2" color = "grey">*An American Woodcock forages in a swamp during an early spring snowfall*</font>](images/woodcock_circle2.png)
 </center>
 </div>
 
@@ -48,7 +48,7 @@ We also found that lesser prairie-chicken dispersal after translocation was almo
 </div>
 <div class = col-md-4>
 <center>
-![<br>Lesser prairie-chicken tagged with a VHF transmitter in preparation for translocation](images/lpc_circle.png)
+![<br><font size = "2" color = "grey">*Lesser prairie-chicken tagged with a VHF transmitter in preparation for translocation*</font>](images/lpc_circle.png)
 </center>
 </div>
 </div>
@@ -58,7 +58,7 @@ We also found that lesser prairie-chicken dispersal after translocation was almo
 <div class = row>
 <div class = col-md-4>
 <center>
-![<br>Artwork by Jen Lobo, frontispiece for the Wilson Journal of Ornithology (Issue 132)](images/HOSP_JenLobo.png)
+![<br><font size = "2" color = "grey">*Artwork by Jen Lobo, frontispiece for the Wilson Journal of Ornithology (Issue 132)*</font>](images/HOSP_JenLobo.png)
 </center>
 </div>
 <div class = col-md-8>

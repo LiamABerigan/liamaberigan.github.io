@@ -18,7 +18,7 @@ h3 {
 <div class = row>
 <div class = col-md-4>
 <center>
-![<br>An American Woodcock receiving a satellite tag<br>(Photo credit: Billy Pope, ALDNR)](images/woodcock_transmitter_circle.png)
+![<br><font size = "2" color = "grey">*An American Woodcock receiving a satellite tag<br>(Photo credit: Billy Pope, ALDNR)*</font>](images/woodcock_transmitter_circle.png)
 </center>
 </div>
 
@@ -37,10 +37,14 @@ During my work with the Eastern Woodcock Migration Research Cooperative ([EWMRC]
 *View the app [here](https://www.woodcockmigration.org/migration.html)*
 </center>
 <br>
-```{r, echo=FALSE, out.width="60%", out.height="60%", fig.cap="<br> The Migration Exploration App shows satellite-tagged woodcock migrating north in the spring", fig.show='hold', fig.align='center'}
+```{r, echo=FALSE, out.width="60%", out.height="60%", fig.show='hold', fig.align='center'}
 knitr::include_graphics("images/app_anim15.gif")
 #![<br>The Migration Exploration App shows satellite-tagged woodcock migrating north in the spring](images/app_anim15.gif)
 ``` 
+
+<center>
+<font size = "2" color = "grey">*The Migration Exploration App shows satellite-tagged woodcock migrating north in the spring*</font>
+</center>
 
 <hr />
 ## Interactive habitat prioritization
@@ -48,7 +52,7 @@ knitr::include_graphics("images/app_anim15.gif")
 <div class = row>
 <div class = col-md-4>
 <center>
-![<br>Satellite-tagged woodcock using nesting habitat (Photo credit: Mathieu Tetreault, Environment and Climate Change Canada)](images/nesting_woodcock_circle.png)
+![<br><font size = "2" color = "grey">*Satellite-tagged woodcock using nesting habitat (Photo credit: Mathieu Tetreault, Environment and Climate Change Canada)*</font>](images/nesting_woodcock_circle.png)
 </center>
 </div>
 

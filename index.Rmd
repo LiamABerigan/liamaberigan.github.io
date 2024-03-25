@@ -22,6 +22,6 @@ My CV is available [here](files/Liam_Berigan_CV_12_4_2022.pdf), and I can be con
 
 <hr />
 <center>
-![<br>Woodcock tagged in Vermont disperse throughout the southeast during their fall migration](images/VT_migration_animation.gif)
+![<font size = "2" color = "grey">*Woodcock tagged in Vermont disperse throughout the southeast during their fall migration*</font>](images/VT_migration_animation.gif)
 
 </center>
