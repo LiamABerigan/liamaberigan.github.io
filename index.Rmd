@@ -15,7 +15,7 @@ I am currently a doctoral candidate at the [University of Maine](https://www.uma
 
 I am also passionate about effective communication of results and scientific recommendations to wildlife agencies and the public. Some of my recent work has used [Shiny](https://www.shinyapps.io/) applications as an interactive platform to allow stakeholders to access data and results. I've included a gallery of those applications [here](applications.html).
 
-My CV is available [here](files/Liam_Berigan_CV_12_4_2022.pdf), and I can be contacted via email <a href="mailto: liam.berigan@maine.edu" target="_blank">here</a>
+My CV is available [here](files/Liam_Berigan_CV_12_14_2023.pdf), and I can be contacted via email <a href="mailto: liam.berigan@maine.edu" target="_blank">here</a>.
 
 </div>
 </div>
