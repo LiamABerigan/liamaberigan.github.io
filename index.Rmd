@@ -11,11 +11,11 @@ knitr::include_graphics("images/profile_photo_circle.png")
 ```
 </div>
 <div class = col-md-8>
-I am currently a doctoral candidate at the [University of Maine](https://www.umaine.edu) in the Department of Wildlife, Fisheries, and Conservation Biology. My work focuses on the movements, habitat use, and population dynamics of wildlife, especially bird species. I have particular interests in migration and conservation of at-risk species through techniques such as translocation.
+I am currently a postdoctoral researcher at [Kansas State University](https://www.k-state.edu) in the [Kansas Cooperative Fish and Wildlife Research Unit](https://www.k-state.edu/kscfwru/). My work focuses on the movements, habitat use, and population dynamics of wildlife, especially bird species. I have particular interests in migration and conservation of at-risk species through techniques such as translocation.
 
 I am also passionate about effective communication of results and scientific recommendations to wildlife agencies and the public. Some of my recent work has used [Shiny](https://www.shinyapps.io/) applications as an interactive platform to allow stakeholders to access data and results. I've included a gallery of those applications [here](applications.html).
 
-My CV is available [here](files/Liam_Berigan_CV_4_25_2024.pdf), and I can be contacted via email <a href="mailto: liam.berigan@maine.edu" target="_blank">here</a>.
+My CV is available [here](files/Liam_Berigan_CV_4_25_2024.pdf), and I can be contacted via email <a href="mailto: liamaberigan@gmail.com" target="_blank">here</a>.
 
 </div>
 </div>
