@@ -28,6 +28,8 @@ During this project we’ve developed a process for classifying GPS data collect
 Slezak , C. R., E. J. Blomberg, A. M. Roth, **L. A. Berigan**, A. C. Fish, R. L. Darling, ... and S. R. McWilliams (2024). Unconventional life history in a migratory
 shorebird: desegregating reproduction and migration. Proceedings of the Royal Society B 291: 20240021. [PDF](files/Slezak_itinerant_2024.pdf)
 
+**Berigan, L. A.** (2024). Full annual cycle analysis of American Woodcock (*Scolopax minor*) distribution, habitat use, and migration ecology. PhD dissertation, University of Maine. [PDF](files/Berigan_PhD_dissertation.pdf)
+
 Clements, S. J., **L. A. Berigan**, A. C. Fish, R. L. Darling, A. M. Roth, G. Balkcom, ... and E. J. Blomberg (2024). Satellite tracking of American Woodcock reveals a gradient of migration strategies. Ornithology 141:ukae008. [PDF](files/Clements_strategies_2024.pdf)
 
 Fish, A. C., A. M. Roth, G. Balkcom, **L. A. Berigan**, K. L. Darling, S. J. Clements, ... and E. J. Blomberg (2024). American woodcock migration phenology in eastern North America: implications for hunting season timing. Journal of Wildlife Management e22565. [PDF](files/Fish_phenology_2024.pdf)
