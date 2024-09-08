@@ -57,7 +57,7 @@ knitr::include_graphics("images/app_anim15.gif")
 </div>
 
 <div class = col-md-8>
-During a collaborative project with the [Pennsylvania Game Commission](www.google.com), we built an application to allow PGC employees to interactively weight migratory and breeding season habitat suitability when making woodcock habitat conservation decisions. The resulting tool, called the Woodcock Priority Area Siting Tool ([W-PAST](https://woodcock.shinyapps.io/W-PAST)), has since been used to inform state-level management and support woodcock habitat funding proposals in Pennsylvania.
+During a collaborative project with the [Pennsylvania Game Commission](https://www.pgc.pa.gov/Pages/default.aspx), we built an application to allow PGC employees to interactively weight migratory and breeding season habitat suitability when making woodcock habitat conservation decisions. The resulting tool, called the Woodcock Priority Area Siting Tool ([W-PAST](https://woodcock.shinyapps.io/W-PAST)), has since been used to inform state-level management and support woodcock habitat funding proposals in Pennsylvania.
 
 Advantages of W-PAST:
 
