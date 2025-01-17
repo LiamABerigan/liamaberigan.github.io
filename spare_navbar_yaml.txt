@@ -26,4 +26,4 @@ navbar:
     - icon: fa-twitter
       href: https://twitter.com/LA_Berigan
     - icon: fa-envelope
-      href: "mailto: liam.berigan@maine.edu"
+      href: "mailto: liamaberigan@gmail.com"
