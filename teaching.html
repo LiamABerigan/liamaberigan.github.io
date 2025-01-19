@@ -11,7 +11,7 @@
 
 
 
-<title>Applications</title>
+<title>Teaching</title>
 
 <script src="site_libs/header-attrs-2.25/header-attrs.js"></script>
 <script src="site_libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
@@ -400,119 +400,224 @@ div.tocify {
 
 
 
-<h1 class="title toc-ignore">Applications</h1>
+<h1 class="title toc-ignore">Teaching</h1>
 
 </div>
 
 
-<style type="text/css">
-h3 {
-  text-align: center;
-}
-</style>
 <hr />
-<div id="exploring-woodcock-migration" class="section level2">
-<h2>Exploring woodcock migration</h2>
+<div id="quantitative-skills" class="section level2">
+<h2>Quantitative skills</h2>
 <br>
 <div class="row">
 <div class="col-md-4">
 <center>
 <div class="float">
-<img src="images/woodcock_transmitter_circle.png"
-alt=" An American Woodcock receiving a satellite tag (Photo credit: Billy Pope, ALDNR)" />
+<img src="images/woodcock_circle2.png"
+alt=" An American Woodcock forages in a swamp during an early spring snowfall" />
 <div class="figcaption"><br><font size = "2" color = "grey"><em>An
-American Woodcock receiving a satellite tag<br>(Photo credit: Billy
-Pope, ALDNR)</em></font></div>
+American Woodcock forages in a swamp during an early spring
+snowfall</em></font></div>
 </div>
 </center>
 </div>
 <div class="col-md-8">
-<p>During my work with the Eastern Woodcock Migration Research
-Cooperative (<a href="https://www.woodcockmigration.org/">EWMRC</a>) I
-built several tools to improve our ability to communicate results to the
-public. Both of these tools allow users to interactively explore the
-tracks of GPS-tagged woodcock, either in real time or through archived
-data.</p>
+<p>Much of my experience teaching quantitative skills comes through a
+lecture/lab hybrid format, where students receive a common introduction
+to concepts before breaking out into groups or working individually
+through a lab assignment. While teaching in this format, I keep the
+following points in mind: <br></p>
+<p>Multimodal presentation of content</p>
+<p>Interactive use of statistics programs Excel, R, Shinyapps</p>
+<p>Pacing</p>
+<ol style="list-style-type: decimal">
+<li><strong>Equations</strong>: they’re a necessary part of any
+quantitative course, but they’re also one of the most common places
+where students fall behind (even at a collegiate or graduate level). On
+the bright side, building competence with mathematical formulae can
+really broaden a student’s ability to read scientific literature, and
+understand the structure of the statistical techniques they’re using. I
+adopt the following techniques to improve student’s comfort level with
+equations:</li>
+</ol>
 <ul>
-<li><p>The <a
-href="https://www.woodcockmigration.org/migration.html">Migration
-Exploration App</a> is used in concert with our woodcock migration
-microblog to update the public on the migratory routes and timing of
-tagged woodcock.</p></li>
-<li><p>The <a
-href="https://www.woodcockmigration.org/explore-data.html">Historical
-Data Exploration App</a> allows users to view full migrations from
-&gt;500 tagged woodcock throughout the course of the project.</p></li>
+<li><em>Text, graphical, and mathematical notation</em>: Every equation
+in my course material is accompanied by a detailed definition of every
+variable (even those that have been introduced before), a plain-text
+explanation of how the equation functions, and a graphical demonstration
+of the equation when appropriate. For example, my course material
+includes the following description of an exponential growth model:</li>
 </ul>
+<p><span class="math display">\[N_{t+1} = N_{t} e^{r}\]</span></p>
+<p><span class="math inline">\(N_{t}\)</span>: Population size in year
+<em>t</em></p>
+<p><span class="math inline">\(N_{t+1}\)</span>: Population size in the
+next year (<span class="math inline">\(t+1\)</span>)</p>
+<p><span class="math inline">\(e\)</span>: Mathematical constant
+referred to as Euler’s number (pronounced ‘oiler’). Approximatly equal
+to 2.71828.</p>
+<p><span class="math inline">\(r\)</span>: Instantaneous population
+growth rate: the rate at which new individuals enter a population. When
+r = 0, no population growth occurs. If r &gt; 0, the population is
+growing, and if r &lt; 0, the population is shrinking.</p>
+<p>The exponential growth model demonstrates how population growth
+accelerates when the number of individuals in the population increases.
+Let’s use a fairly typical value of r (r = 0.1). At fairly small
+population sizes (<span class="math inline">\(N_{t}=5\)</span>), the
+population would grow fairly slowly.</p>
+<p><span class="math display">\[N_{t}*e^{r}\]</span> <span
+class="math display">\[(5)*2.71828^{0.1} = 5.53\]</span></p>
+<p>Here, the population increased by only 0.53 individuals. Let’s see
+what happens if we increase <span class="math inline">\(N_{t}\)</span>
+to a much larger number (<span
+class="math inline">\(N_{t}=500\)</span>).</p>
+<p><span class="math display">\[N_{t}*e^{r}\]</span> <span
+class="math display">\[(500)*2.71828^{0.1} = 553.59\]</span></p>
+<p>Here, the population increased by 53.59 individuals. Remember that
+<span class="math inline">\(r\)</span> = <em>birth rate - death
+rate</em>: we had 10x more starting individuals in this case, and so we
+had 10x more reproductive output. Here’s a graphical illustration of how
+a population which starts small might experience exponential growth.</p>
+<p><img src="teaching_files/figure-html/unnamed-chunk-1-1.png" width="480" /></p>
+<ul>
+<li><em>Excel</em>: While I tend to shy away from Excel when working on
+research, I’ve found it to be an incredibly useful tool for teaching
+statistics.</li>
+</ul>
+<p><br> During this project we’ve developed a process for classifying
+GPS data collected during bird migration, which uses a modified
+step-length threshold with a hidden Markov model to estimate the
+migratory state of a woodcock at any point of its full annual cycle. As
+this technique can be used to estimate the migratory state of a bird
+during a mortality event, we’ll be able to integrate these
+classifications into an upcoming paper which examines woodcock survival
+in respect to migration. We’ve also used woodcock as a model for
+understanding how functional responses impact the habitat use of
+migratory birds throughout the year, and as an example of a low-altitude
+flier when examining how airspace obstacles overlap with migratory
+flight altitudes.</p>
 </div>
 </div>
 <hr />
-<div id="migration-exploration-app" class="section level3">
-<h3>Migration Exploration App</h3>
+</div>
+<div id="conservation-of-at-risk-species" class="section level2">
+<h2>Conservation of at-risk species</h2>
+<br>
+<div class="row">
+<div class="col-md-8">
+<p>Lesser prairie-chickens have recently been listed under the U.S.
+Endangered Species Act due to widespread declines throughout most of
+their range. To combat these declines, a collaborative federal, state,
+and university effort translocated 411 lesser prairie-chickens to
+unoccupied areas of presumed habitat in the Sand Sagebrush Prairie
+Ecoregion. During the translocation, we conducted an assessment of
+lesser prairie-chicken habitat requirements in areas where birds were
+released (especially the <a
+href="https://www.fs.usda.gov/recarea/psicc/recarea/?recid=12404">Cimarron</a>
+and <a
+href="https://www.fs.usda.gov/detail/psicc/about-forest/districts/?cid=fsm9_032695">Comanche</a>
+National Grasslands) and found that areas of Sand Sagebrush prairie
+which had formerly hosted lesser prairie-chickens no longer contained
+sufficient nesting habitat for their persistence. <br> <br> We also
+found that lesser prairie-chicken dispersal after translocation was
+almost universal, and resulted in the diffusion of the translocated
+population across an area totalling nearly 4,000 square kilometers
+(~1.25x the size of Rhode Island). Our paper describing this dispersal,
+published in Ecology and Evolution in 2024, advises that practitioners
+carefully evaluate the role of translocation before they use it for the
+restoration of this iconic prairie species. <br> <br></p>
+<p><em>Publications:</em></p>
+<p><strong>Berigan, L. A.</strong>, C. S. Aulicky, E. C. Teige, D. S.
+Sullins, K. A. Fricke, J. H. Reitz, … and D. A. Haukos (2024). Lesser
+prairie-chicken dispersal after translocation: Implications for
+restoration and population connectivity. Ecology and Evolution
+14(2):e10871. <a href="files/Berigan_LPCDispersal_2024.pdf">PDF</a></p>
+<p>Teige, E. C., <strong>L. A. Berigan</strong>, C. S. Aulicky, J. H.
+Reitz, D. A. Haukos, D. S. Sullins, … and L. G. Rossi. Assessment of
+lesser prairie‐chicken translocation through survival and lek surveys.
+Wildlife Society Bulletin 47(4):e1493. <a
+href="files/Teige_survival_2023.pdf">PDF</a></p>
+<p><strong>Berigan, L. A.</strong>, C. S. Aulicky, E. C. Teige, D. S.
+Sullins, D. A. Haukos, K. A. Fricke, … and A. M. Ricketts (2022).
+Availability of lesser prairie‐chicken nesting habitat impairs
+restoration success. Wildlife Society Bulletin 46(5):e1379. <a
+href="files/Berigan_LPCHabitat_2022.pdf">PDF</a></p>
+<p><strong>Berigan, L. A.</strong> (2019). Dispersal, reproductive
+success, and habitat use by translocated lesser prairie-chickens.
+Master’s thesis, Kansas State University. <a
+href="files/Berigan_MastersThesis.pdf">PDF</a></p>
+<p><em>Use in listing decisions:</em> <a
+href="files/Federal_Register_2022_listing.pdf">Federal Register 87(226),
+page 72739</a></p>
+<p><em>Media:</em>
+<a href="https://www.cbsnews.com/colorado/news/lesser-prairie-chickens-kansas-colorado-grasslands/" target="_blank">CBS
+News</a>,
+<a href="https://www.denverpost.com/2022/12/08/prairie-chicken-endangered-rescue-colorado/" target="_blank">Denver
+Post</a>,
+<a href="https://boulderweekly.com/news/midnight-on-the-prairie/" target="_blank">Boulder
+Weekly</a>,
+<a href="https://coloradooutdoorsmag.com/2020/07/27/conservation-update-lesser-prairie-chickens/" target="_blank">Colorado
+Outdoors Magazine</a>,
+<a href="https://northfortynews.com/category/news/four-year-project-sees-hundreds-of-lesser-prairie-chickens-reintroduced/" target="_blank">North
+Forty News</a></p>
+</div>
+<div class="col-md-4">
 <center>
-<em>View the app <a
-href="https://www.woodcockmigration.org/migration.html">here</a></em>
+<div class="float">
+<img src="images/lpc_circle.png"
+alt=" Lesser prairie-chicken tagged with a VHF transmitter in preparation for translocation" />
+<div class="figcaption"><br><font size = "2" color = "grey"><em>Lesser
+prairie-chicken tagged with a VHF transmitter in preparation for
+translocation</em></font></div>
+</div>
 </center>
-<p><br>
-<img src="images/app_anim15.gif" width="60%" height="60%" style="display: block; margin: auto;" /></p>
-<center>
-<font size = "2" color = "grey"><em>The Migration Exploration App shows
-satellite-tagged woodcock migrating north in the spring</em></font>
-</center>
+</div>
+</div>
 <hr />
 </div>
-</div>
-<div id="interactive-habitat-prioritization" class="section level2">
-<h2>Interactive habitat prioritization</h2>
+<div id="urban-bird-declines" class="section level2">
+<h2>Urban bird declines</h2>
 <br>
 <div class="row">
 <div class="col-md-4">
 <center>
 <div class="float">
-<img src="images/nesting_woodcock_circle.png"
-alt=" Satellite-tagged woodcock using nesting habitat (Photo credit: Mathieu Tetreault, Environment and Climate Change Canada)" />
-<div
-class="figcaption"><br><font size = "2" color = "grey"><em>Satellite-tagged
-woodcock using nesting habitat (Photo credit: Mathieu Tetreault,
-Environment and Climate Change Canada)</em></font></div>
+<img src="images/HOSP_JenLobo.png"
+alt=" Artwork by Jen Lobo, frontispiece for the Wilson Journal of Ornithology (Issue 132)" />
+<div class="figcaption"><br><font size = "2" color = "grey"><em>Artwork
+by Jen Lobo, frontispiece for the Wilson Journal of Ornithology (Issue
+132)</em></font></div>
 </div>
 </center>
 </div>
 <div class="col-md-8">
-<p>During a collaborative project with the <a
-href="https://www.pgc.pa.gov/Pages/default.aspx">Pennsylvania Game
-Commission</a>, we built an application to allow PGC employees to
-interactively weight migratory and breeding season habitat suitability
-when making woodcock habitat conservation decisions. The resulting tool,
-called the Woodcock Priority Area Siting Tool (<a
-href="https://woodcock.shinyapps.io/W-PAST">W-PAST</a>), has since been
-used to inform state-level management and support woodcock habitat
-funding proposals in Pennsylvania.</p>
-<p>Advantages of W-PAST:</p>
-<ol style="list-style-type: decimal">
-<li><p>Demonstrates how species distribution models can combine animal
-tracking data with traditional survey data</p></li>
-<li><p>Encourages consideration of habitat use throughout the full
-annual cycle</p></li>
-<li><p>Provides a platform for users to integrate management priorities
-into the interpretation of species distribution models</p></li>
-</ol>
-</div>
-</div>
-<hr />
-<div id="woodcock-priority-area-siting-tool" class="section level3">
-<h3>Woodcock Priority Area Siting Tool</h3>
-<center>
-<em>View the app <a
-href="https://woodcock.shinyapps.io/W-PAST">here</a></em>
-</center>
-<br>
-<div class="figure" style="text-align: center">
-<img src="images/wpast_anim50.gif" alt="W-PAST illustrates how woodcock habitat suitability changes between breeding and migratory seasons" width="60%" height="60%" />
-<p class="caption">
-W-PAST illustrates how woodcock habitat suitability changes between
-breeding and migratory seasons
-</p>
+<p><a href="https://www.birds.cornell.edu/home/bring-birds-back/">Nearly
+3 billion birds</a> have disappeared from North America since 1970, in
+large part due to massive declines in abundance among common bird
+species. Our team used citizen science data collected by <a
+href="https://feederwatch.org/">Project Feederwatch</a> to measure
+trends in House Sparrow abundance and evaluate potential reasons for
+their disappearance. We found that House Sparrow declines were closely
+linked to highly-urbanized landscapes, and did not appear to be related
+to the resurgence in <em>Accipiter</em> hawk populations that
+contributed to declines in Europe. The cause of House Sparrow declines
+in North America is likely tightly linked to urban landscapes, and may
+include the modification of urban greenspaces or feral cat populations.
+Our results were published in the Wilson Journal of Ornithology in 2020.
+<br> <br></p>
+<p><em>Publication:</em></p>
+<p><strong>Berigan, L. A.</strong>, E. I. Greig, and D. N. Bonter
+(2020). Urban House Sparrow (<em>Passer domesticus</em>) populations
+decline in North America. The Wilson Journal of Ornithology
+132(2):248-258. <a
+href="files/Berigan_HouseSparrow_2020.pdf">PDF</a></p>
+<p><em>Media:</em> <a
+href="https://www.sciencedaily.com/releases/2021/02/210211114002.htm">ScienceDaily</a>,
+<a
+href="https://www.newyorkalmanack.com/2021/02/even-the-common-house-sparrow-is-in-decline-study-finds/">New
+York Almanac</a>, <a
+href="https://www.grandforksherald.com/sports/northland-outdoors/always-in-season-mike-jacobs-house-sparrow-numbers-continue-long-term-decline">Grand
+Forks Herald</a></p>
 </div>
 </div>
 </div>
