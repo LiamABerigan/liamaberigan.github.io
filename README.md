@@ -1,2 +1,2 @@
-# Academic website
-Providing an overview of my research topics and recent papers 
+# Personal website
+Lightweight website built using R Markdown, and using the yeti theme from Bootstrap
