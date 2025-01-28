@@ -15,14 +15,14 @@ h3 {
 <hr />
 ## Exploring woodcock migration
 <br>
-<div class = row>
-<div class = "col-md-4 col-sm-4 col-xs-4">
+<div class = "row">
+<div class = "col-md-4 hidden-xs hidden-sm">
 <center>
 ![<br><font size = "2" color = "grey">*An American Woodcock receiving a satellite tag<br>(Photo credit: Billy Pope, ALDNR)*</font>](images/woodcock_transmitter_circle.png)
 </center>
 </div>
 
-<div class = "col-md-8 col-sm-8 col-xs-8">
+<div class = "col-md-8 col-sm-12">
 During my work with the Eastern Woodcock Migration Research Cooperative ([EWMRC](https://www.woodcockmigration.org/)) I built several tools to improve our ability to communicate results to the public. Both of these tools allow users to interactively explore the tracks of GPS-tagged woodcock, either in real time or through archived data.
 
 - The [Migration Exploration App](https://www.woodcockmigration.org/migration.html) is used in concert with our woodcock migration microblog to update the public on the migratory routes and timing of tagged woodcock. 
@@ -49,14 +49,14 @@ knitr::include_graphics("images/app_anim15.gif")
 <hr />
 ## Interactive habitat prioritization
 <br>
-<div class = row>
-<div class = "col-md-4 col-sm-4 col-xs-4">
+<div class = "row">
+<div class = "col-md-4 hidden-xs hidden-sm">
 <center>
 ![<br><font size = "2" color = "grey">*Satellite-tagged woodcock using nesting habitat (Photo credit: Mathieu Tetreault, Environment and Climate Change Canada)*</font>](images/nesting_woodcock_circle.png)
 </center>
 </div>
 
-<div class = "col-md-8 col-sm-8 col-xs-8">
+<div class = "col-md-8 col-sm-12">
 During a collaborative project with the [Pennsylvania Game Commission](https://www.pgc.pa.gov/Pages/default.aspx), we built an application to allow PGC employees to interactively weight migratory and breeding season habitat suitability when making woodcock habitat conservation decisions. The resulting tool, called the Woodcock Priority Area Siting Tool ([W-PAST](https://woodcock.shinyapps.io/W-PAST)), has since been used to inform state-level management and support woodcock habitat funding proposals in Pennsylvania.
 
 Advantages of W-PAST:
