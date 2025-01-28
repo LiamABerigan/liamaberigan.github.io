@@ -9,5 +9,6 @@ output:
     - style.css
     - academicons-1.8.6/css/academicons.css
     include:
+      in_header: header.html
       after_body: footer_normal.html
       
