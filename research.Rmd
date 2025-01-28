@@ -11,13 +11,13 @@ output:
 ## Population dynamics and occupancy
 <br>
 <div class = row>
-<div class = col-md-4>
+<div class = "col-md-4 col-sm-4 col-xs-4">
 <center>
 ![<br><font size = "2" color = "grey">*Lesser prairie-chicken displays on a lek in northwestern Kansas *</font>](images/lekking_profile_Bonita.png)
 </center>
 </div>
 
-<div class = col-md-8>
+<div class = "col-md-8 col-sm-8 col-xs-8">
 Population dynamics are often limited by the presence/absence of certain features on a landscape; the identification of those features can substantially aid in management for that species. During my postdoc at [K-State](https://www.k-state.edu), I have been attempting to identify limiting factors in lesser prairie-chicken occupancy and within-lek population dynamics. Our early results indicate that U.S. Department of Agriculture Conservation Reserve Program Grasslands (CRP) have an outsized role in sustaining lesser prairie-chicken lek abundance throughout the Kansas portion of their range. Lesser prairie-chicken population trends are likely to be closely linked to future CRP enrollment, and particularly to program allocation/rental rate decisions made in the next Farm Bill.
 <br>
 <br>
@@ -29,7 +29,7 @@ We are currently revising a draft manuscript based on the first portion of this 
 ## Movement & habitat ecology
 <br>
 <div class = row>
-<div class = col-md-8>
+<div class = "col-md-8 col-sm-8 col-xs-8">
 Recent focus on migratory bird declines have led to increased interest in how birds move and use habitat throughout their full annual cycle. The [EWMRC](https://www.woodcockmigration.org) has been examining migratory bird movement ecology and habitat selection using migratory data from >500 GPS-tagged American Woodcock. One of our early management-oriented products is the Woodcock Priority Area Siting Tool ([W-PAST](https://woodcock.shinyapps.io/W-PAST); see our summary on the [applications page](applications.html)).
 <br>
 <br>
@@ -51,7 +51,7 @@ Blomberg E. J., A. C. Fish, **L. A. Berigan**, A. M. Roth, R. Rau, S. J. Clement
 *Popular science presentations:* [Harris Center](https://www.youtube.com/watch?v=ivrPYA-CgBI&ab_channel=HarrisCenter), [Friends of Mississquoi NWR](https://www.youtube.com/watch?v=PAqzFuZ15Mo&ab_channel=FriendsofMissisquoi)
 
 </div>
-<div class = col-md-4>
+<div class = "col-md-4 col-sm-4 col-xs-4">
 <center>
 ![<br><font size = "2" color = "grey">*An American Woodcock forages in a swamp during an early spring snowfall*</font>](images/woodcock_circle2.png)
 </center>
@@ -61,12 +61,12 @@ Blomberg E. J., A. C. Fish, **L. A. Berigan**, A. M. Roth, R. Rau, S. J. Clement
 ## Reintroducing at-risk species
 <br>
 <div class = row>
-<div class = col-md-4>
+<div class = "col-md-4 col-sm-4 col-xs-4">
 <center>
 ![<br><font size = "2" color = "grey">*Lesser prairie-chicken tagged with a VHF transmitter in preparation for translocation*</font>](images/lpc_circle.png)
 </center>
 </div>
-<div class = col-md-8>
+<div class = "col-md-8 col-sm-8 col-xs-8">
 Lesser prairie-chickens have recently been listed under the U.S. Endangered Species Act due to widespread declines throughout most of their range. To combat these declines, a collaborative federal, state, and university effort translocated 411 lesser prairie-chickens to unoccupied areas of presumed habitat in the Sand Sagebrush Prairie Ecoregion. During the translocation, we conducted an assessment of lesser prairie-chicken habitat requirements in areas where birds were released (especially the [Cimarron](https://www.fs.usda.gov/recarea/psicc/recarea/?recid=12404) and [Comanche](https://www.fs.usda.gov/detail/psicc/about-forest/districts/?cid=fsm9_032695) National Grasslands) and found that areas of Sand Sagebrush prairie which had formerly hosted lesser prairie-chickens no longer contained sufficient nesting habitat for their persistence.
 <br>
 <br>
@@ -93,7 +93,7 @@ Teige, E. C., **L. A. Berigan**, C. S. Aulicky, J. H. Reitz, D. A. Haukos, D. S.
 ## Urban bird declines 
 <br>
 <div class = row>
-<div class = col-md-8>
+<div class = "col-md-8 col-sm-8 col-xs-8">
 [Nearly 3 billion birds](https://www.birds.cornell.edu/home/bring-birds-back/) have disappeared from North America since 1970, in large part due to massive declines in abundance among common bird species. Our team used citizen science data collected by [Project Feederwatch](https://feederwatch.org/) to measure trends in House Sparrow abundance and evaluate potential reasons for their disappearance. We found that House Sparrow declines were closely linked to highly-urbanized landscapes, and did not appear to be related to the resurgence in *Accipiter* hawk populations that contributed to declines in Europe. The cause of House Sparrow declines in North America is likely tightly linked to urban landscapes, and may include the modification of urban greenspaces or feral cat populations. Our results were published in the Wilson Journal of Ornithology in 2020.
 <br>
 <br>
@@ -104,7 +104,7 @@ Teige, E. C., **L. A. Berigan**, C. S. Aulicky, J. H. Reitz, D. A. Haukos, D. S.
 
 *Media:* [ScienceDaily](https://www.sciencedaily.com/releases/2021/02/210211114002.htm), [New York Almanac](https://www.newyorkalmanack.com/2021/02/even-the-common-house-sparrow-is-in-decline-study-finds/), [Grand Forks Herald](https://www.grandforksherald.com/sports/northland-outdoors/always-in-season-mike-jacobs-house-sparrow-numbers-continue-long-term-decline)
 </div>
-<div class = col-md-4>
+<div class = "col-md-4 col-sm-4 col-xs-4">
 <center>
 ![<br><font size = "2" color = "grey">*Artwork by Jen Lobo, frontispiece for the Wilson Journal of Ornithology (Issue 132)*</font>](images/HOSP_JenLobo.png)
 </center>
