@@ -35,10 +35,19 @@ We are currently revising a draft manuscript based on the first portion of this 
 </center>
 </div>
 <div class = "col-md-8 col-sm-12">
-Recent focus on migratory bird declines have led to increased interest in how birds move and use habitat throughout their full annual cycle. The [EWMRC](https://www.woodcockmigration.org) has been examining migratory bird movement ecology and habitat selection using migratory data from >500 GPS-tagged American Woodcock. One of our early management-oriented products is the Woodcock Priority Area Siting Tool ([W-PAST](https://woodcock.shinyapps.io/W-PAST); see our summary on the [applications page](applications.html)).
+Recent focus on migratory bird declines have led to increased interest in how birds move and use habitat throughout their full annual cycle. The [Eastern Woodcock Migration Research Cooperative (EWMRC)](https://www.woodcockmigration.org) has been examining migratory bird movement ecology and habitat selection using migratory data from >700 GPS-tagged American Woodcock, tagged with the assistance of 44+ federal, state, and non-profit collaborators during all seasons and throughout eastern North America. 
+
+My doctoral dissertation used this dataset to meet 4 objectives :
+
+1. Development of a management prioritization tool for the Pennsylvania Game Commission, titled [W-PAST](https://woodcock.shinyapps.io/W-PAST) (see our summary on the [applications page](applications.html)).
+
+2. Creation of a classification system which uses modified hidden Markov models to estimate migratory states from sparse GPS data.
+
+3. Assessment of how functional responses impact the habitat use of migratory birds throughout the full annual cycle.
+
+4. Examination of woodcock migratory altitudes and woodcocks' comparative exposure to airspace obstacles during migratory flights.
+
 <br>
-<br>
-During this project we’ve developed a process for classifying GPS data collected during bird migration, which uses a modified step-length threshold with a hidden Markov model to estimate the migratory state of a woodcock at any point of its full annual cycle. As this technique can be used to estimate the migratory state of a bird during a mortality event, we’ll be able to integrate these classifications into an upcoming paper which examines woodcock survival in respect to migration. We’ve also used woodcock as a model for understanding how functional responses impact the habitat use of migratory birds throughout the year, and as an example of a low-altitude flier when examining how airspace obstacles overlap with migratory flight altitudes.
 
 *Publications:*
 

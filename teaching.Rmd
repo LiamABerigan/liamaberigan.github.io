@@ -9,7 +9,23 @@ output:
 ---
 <hr />
 ## Courses taught
-I specialize in teaching quantitative methods and statistics from an ecological perspective, including topics such as regression, mark-recapture, and population dynamics. However, some of my past teaching experiences have also included introductory biology and field-based taxonomic courses. While my approach might vary between different types of courses, the following overview is an example of how I might apply some common strategies to a scenario I'm familiar with: teaching population dynamics to undergraduates.
+I specialize in teaching quantitative methods and statistics from an ecological perspective, including topics such as regression, mark-recapture, and population dynamics. However, some of my past teaching experiences have also included introductory biology and field-based taxonomic courses. While my approach might vary between different types of courses, the overview below is an example of how I might apply some common strategies to a scenario I'm familiar with: teaching population dynamics to undergraduates.
+
+<div style="background-color: #F6F6F6; border-radius: 10px; padding: 20px;">
+
+**Instructor of Record**:
+
+- Wildlife Population Dynamics (University of Maine)
+
+**Teaching Assistant**:
+
+- Principles of Biology (Kansas State University)
+
+- Introductory Biology: Ecology and the Environment (Cornell University)
+
+- Field Ornithology (Cornell University)
+
+</div>
 
 <br>
 
