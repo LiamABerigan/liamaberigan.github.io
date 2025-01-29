@@ -25,14 +25,15 @@ My CV is available [here](files/Liam_Berigan_CV.pdf), and I can be contacted via
 <hr />
 
 <div class = "col-md-6">
-<div class = row>
+<div class = "row hidden-xs hidden-sm">
 <center>
 ![<font size = "2" color = "grey">*Deploying satellite transmitters in collaboration with Vermont Fish and Wildlife, Audubon Vermont, and The Nature Conservancy*</font>](images/VT_collaborators.jpg){width=85%}
 </center>
+<br>
 </div>
 </div>
 <div class = "col-md-6">
-<div class = "row-md-6">
+<div class = "row-md-6 hidden-xs hidden-sm">
 <center>
 ![<font size = "2" color = "grey">*Woodcock about to be tagged with a satellite transmitter in Nova Scotia*</font>](images/chipped_nail_polish.jpg){width=72.5%}
 </center>
