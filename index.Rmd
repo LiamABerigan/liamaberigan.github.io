@@ -1,5 +1,4 @@
 ---
-title: "Liam A. Berigan"
 output:
   html_document
 ---
