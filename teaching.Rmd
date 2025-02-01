@@ -25,6 +25,12 @@ I specialize in teaching quantitative methods and statistics from an ecological 
 
 - Field Ornithology (Cornell University)
 
+**Workshops**:
+
+- Advanced programming in R (University of Maine; 3-lecture series)
+
+- Introduction to scientific data analysis (Cobscook Institute)
+
 </div>
 
 <br>
