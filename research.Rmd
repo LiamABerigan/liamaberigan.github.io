@@ -51,8 +51,9 @@ My doctoral dissertation used this dataset to meet 4 objectives :
 
 *Publications:*
 
-Slezak , C. R., E. J. Blomberg, A. M. Roth, **L. A. Berigan**, A. C. Fish, R. L. Darling, ... and S. R. McWilliams (2024). Unconventional life history in a migratory
-shorebird: desegregating reproduction and migration. Proceedings of the Royal Society B 291: 20240021. [PDF](files/Slezak_itinerant_2024.pdf)
+**Berigan, L. A.**, S. J. Clements, R. L. Darling, A. C. Fish, A. M. Roth, G. Balkcom, ... and E. J. Blomberg (2025). Low migratory flight altitudes may explain increased collision risk for *Scolopax minor* (American Woodcock). Ornithological Applications 127:duaf017. [PDF](files/Berigan_flight_altitudes_2025.pdf)
+
+Slezak, C. R., E. J. Blomberg, A. M. Roth, **L. A. Berigan**, A. C. Fish, R. L. Darling, ... and S. R. McWilliams (2024). Unconventional life history in a migratory shorebird: desegregating reproduction and migration. Proceedings of the Royal Society B 291:20240021. [PDF](files/Slezak_itinerant_2024.pdf)
 
 **Berigan, L. A.** (2024). Full annual cycle analysis of American Woodcock (*Scolopax minor*) distribution, habitat use, and migration ecology. PhD dissertation, University of Maine. [PDF](files/Berigan_PhD_dissertation.pdf)
 
