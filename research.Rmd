@@ -18,10 +18,14 @@ output:
 </div>
 
 <div class = "col-md-8 col-sm-12">
-Population dynamics are often limited by the presence/absence of certain features on a landscape; the identification of those features can substantially aid in management for that species. During my postdoc at [K-State](https://www.k-state.edu), I have been attempting to identify limiting factors in lesser prairie-chicken occupancy and within-lek population dynamics. Our early results indicate that U.S. Department of Agriculture Conservation Reserve Program Grasslands (CRP) have an outsized role in sustaining lesser prairie-chicken lek abundance throughout the Kansas portion of their range. Lesser prairie-chicken population trends are likely to be closely linked to future CRP enrollment, and particularly to program allocation/rental rate decisions made in the next Farm Bill.
-<br>
-<br>
-We are currently revising a draft manuscript based on the first portion of this analysis, which will be submitted for consideration at *Conservation Biology*. In subsequent analyses, we plan on investigating potential strategies for maintaining population connectivity across the lesser prairie-chicken's range.
+Population dynamics are often limited by the presence/absence of certain features on a landscape; the identification of those features can substantially aid in management for that species. During my postdoc at [K-State](https://www.k-state.edu), I have been attempting to identify limiting factors in lesser prairie-chicken occupancy and within-lek population dynamics. Our results indicate that U.S. Department of Agriculture Conservation Reserve Program Grasslands (CRP) have an outsized role in sustaining lesser prairie-chicken lek abundance throughout the Kansas portion of their range. Lesser prairie-chicken population trends are likely to be closely linked to future CRP enrollment, and particularly to program allocation/rental rate decisions made in the next Farm Bill.
+
+We currently have a draft manuscript based on the first portion of this analysis, which is under consideration at *Conservation Biology*. We are also working on two additional analyses using this dataset:
+
+1. Developing novel methods for fitting density-dependence models with covariates in a Bayesian hierarchical framework. 
+
+2. Examining habitat connectivity for lesser prairie-chickens at multiple spatial scales using clustering analyses.
+
 </div>
 </div>
 
