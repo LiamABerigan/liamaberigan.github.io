@@ -1,0 +1,29 @@
+---
+title: "Lab Group"
+output:
+  html_document:
+    toc: true
+    toc_float:
+      smooth_scroll: true
+---
+```{css, echo=FALSE}
+h3 {
+  text-align: center;
+}
+```
+
+<hr />
+
+## Graduate positions
+
+I am a faculty member in Auburn's College of Forestry, Wildlife, and Environment, which offers [M.S. and Ph.D. degrees in Wildlife Sciences](https://cfwestaging.wpenginepowered.com/graduate-study/graduate-degrees/). Graduate positions in my lab are fully funded (covering tuition and stipend), but availability is limited. Funding typically comes through two main pathways:
+
+1. *Project-specific funding*. Most wildlife graduate positions are tied to externally funded research projects. In these cases, collaborators provide funding to support a graduate student who will lead fieldwork and conduct data analysis on an established research question. When available, these opportunities will be posted here and on [Texas A&M's Natural Resources Job Board](https://jobs.rwfm.tamu.edu) and the [Ornithology Exchange](https://ornithologyexchange.org/jobs/board/).
+
+2. *Student-specific funding*. Some competitive fellowships provide funding directly to students, offering greater flexibility in research topics. The most notable of these is the [NSF Graduate Research Fellowship Program](https://www.nsf.gov/funding/opportunities/grfp-nsf-graduate-research-fellowship-program). These fellowships are highly competitive, but I'm happy to collaborate with prospective students on applications when our research interests align.
+
+<hr />
+
+## Undergraduate positions
+
+I expect to have openings for summer field technician positions beginning in 2026. If you're an Auburn undergraduate interested in avian ecology and fieldwork, feel free to email me or stop by my office to learn more.

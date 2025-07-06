@@ -11,7 +11,7 @@
 
 
 
-<title>Audio recordings</title>
+<title>Lab Group</title>
 
 <script src="site_libs/header-attrs-2.29/header-attrs.js"></script>
 <script src="site_libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
@@ -29,6 +29,9 @@
        h6 {font-size: 12px;}
        code {color: inherit; background-color: rgba(0, 0, 0, 0.04);}
        pre:not([class]) { background-color: white }</style>
+<script src="site_libs/jqueryui-1.13.2/jquery-ui.min.js"></script>
+<link href="site_libs/tocify-1.9.1/jquery.tocify.css" rel="stylesheet" />
+<script src="site_libs/tocify-1.9.1/jquery.tocify.js"></script>
 <script src="site_libs/navigation-1.1/tabsets.js"></script>
 <link href="site_libs/highlightjs-9.12.0/default.css" rel="stylesheet" />
 <script src="site_libs/highlightjs-9.12.0/highlight.js"></script>
@@ -231,6 +234,69 @@ $(document).ready(function () {
 
 
 
+<style type="text/css">
+
+#TOC {
+  margin: 25px 0px 20px 0px;
+}
+@media (max-width: 768px) {
+#TOC {
+  position: relative;
+  width: 100%;
+}
+}
+
+@media print {
+.toc-content {
+  /* see https://github.com/w3c/csswg-drafts/issues/4434 */
+  float: right;
+}
+}
+
+.toc-content {
+  padding-left: 30px;
+  padding-right: 40px;
+}
+
+div.main-container {
+  max-width: 1200px;
+}
+
+div.tocify {
+  width: 20%;
+  max-width: 260px;
+  max-height: 85%;
+}
+
+@media (min-width: 768px) and (max-width: 991px) {
+  div.tocify {
+    width: 25%;
+  }
+}
+
+@media (max-width: 767px) {
+  div.tocify {
+    width: 100%;
+    max-width: none;
+  }
+}
+
+.tocify ul, .tocify li {
+  line-height: 20px;
+}
+
+.tocify-subheader .tocify-item {
+  font-size: 0.90em;
+}
+
+.tocify .list-group-item {
+  border-radius: 0px;
+}
+
+
+</style>
+
+
 
 </head>
 
@@ -238,6 +304,16 @@ $(document).ready(function () {
 
 
 <div class="container-fluid main-container">
+
+
+<!-- setup 3col/9col grid for toc_float and main content  -->
+<div class="row">
+<div class="col-xs-12 col-sm-4 col-md-3">
+<div id="TOC" class="tocify">
+</div>
+</div>
+
+<div class="toc-content col-xs-12 col-sm-8 col-md-9">
 
 
 
@@ -271,29 +347,52 @@ $(document).ready(function () {
 
 
 
-<h1 class="title toc-ignore">Audio recordings</h1>
+<h1 class="title toc-ignore">Lab Group</h1>
 
 </div>
 
 
-<p>Starting in spring 2022, I began using an external shotgun microphone
-attached to my cell phone to record bird calls. While it doesn’t quite
-stand up to the quality of recordings from a <a
-href="https://www.macaulaylibrary.org/resources/audio-recording-gear">parabolic
-microphone and digital audio recorder</a>, it provides a low cost and
-portable option which works well for documenting unusual birds and
-behaviors. A full set of my recordings are available on <a
-href="https://media.ebird.org/catalog?userId=USER452492&amp;mediaType=audio&amp;sort=obs_date_desc">eBird</a>,
-although I’ve included some highlights below.</p>
-<iframe src="https://macaulaylibrary.org/asset/456502321/embed" height="400" width="640" frameborder="0" allowfullscreen>
-</iframe>
-<p><br />
-<br />
-<iframe src="https://macaulaylibrary.org/asset/456506771/embed" height="400" width="640" frameborder="0" allowfullscreen></iframe><br />
-<br />
-<iframe src="https://macaulaylibrary.org/asset/465871881/embed" height="400" width="640" frameborder="0" allowfullscreen></iframe><br />
-<br />
-<iframe src="https://macaulaylibrary.org/asset/446811921/embed" height="400" width="640" frameborder="0" allowfullscreen></iframe></p>
+<style type="text/css">
+h3 {
+  text-align: center;
+}
+</style>
+<hr />
+<div id="graduate-positions" class="section level2">
+<h2>Graduate positions</h2>
+<p>I am a faculty member in Auburn’s College of Forestry, Wildlife, and
+Environment, which offers <a
+href="https://cfwestaging.wpenginepowered.com/graduate-study/graduate-degrees/">M.S.
+and Ph.D. degrees in Wildlife Sciences</a>. Graduate positions in my lab
+are fully funded (covering tuition and stipend), but availability is
+limited. Funding typically comes through two main pathways:</p>
+<ol style="list-style-type: decimal">
+<li><p><em>Project-specific funding</em>. Most wildlife graduate
+positions are tied to externally funded research projects. In these
+cases, collaborators provide funding to support a graduate student who
+will lead fieldwork and conduct data analysis on an established research
+question. When available, these opportunities will be posted here and on
+<a href="https://jobs.rwfm.tamu.edu">Texas A&amp;M’s Natural Resources
+Job Board</a> and the <a
+href="https://ornithologyexchange.org/jobs/board/">Ornithology
+Exchange</a>.</p></li>
+<li><p><em>Student-specific funding</em>. Some competitive fellowships
+provide funding directly to students, offering greater flexibility in
+research topics. The most notable of these is the <a
+href="https://www.nsf.gov/funding/opportunities/grfp-nsf-graduate-research-fellowship-program">NSF
+Graduate Research Fellowship Program</a>. These fellowships are highly
+competitive, but I’m happy to collaborate with prospective students on
+applications when our research interests align.</p></li>
+</ol>
+<hr />
+</div>
+<div id="undergraduate-positions" class="section level2">
+<h2>Undergraduate positions</h2>
+<p>I expect to have openings for summer field technician positions
+beginning in 2026. If you’re an Auburn undergraduate interested in avian
+ecology and fieldwork, feel free to email me or stop by my office to
+learn more.</p>
+</div>
 
 <br />
 <br />
@@ -322,6 +421,8 @@ although I’ve included some highlights below.</p>
 <div class="tocify-extend-page" data-unique="tocify-extend-page" style="height: 0;"></div>
 
 
+</div>
+</div>
 
 </div>
 
@@ -354,6 +455,35 @@ $(document).ready(function () {
 
 <!-- code folding -->
 
+<script>
+$(document).ready(function ()  {
+
+    // temporarily add toc-ignore selector to headers for the consistency with Pandoc
+    $('.unlisted.unnumbered').addClass('toc-ignore')
+
+    // move toc-ignore selectors from section div to header
+    $('div.section.toc-ignore')
+        .removeClass('toc-ignore')
+        .children('h1,h2,h3,h4,h5').addClass('toc-ignore');
+
+    // establish options
+    var options = {
+      selectors: "h1,h2,h3",
+      theme: "bootstrap3",
+      context: '.toc-content',
+      hashGenerator: function (text) {
+        return text.replace(/[.\\/?&!#<>]/g, '').replace(/\s/g, '_');
+      },
+      ignoreSelector: ".toc-ignore",
+      scrollTo: 0
+    };
+    options.showAndHide = true;
+    options.smoothScroll = true;
+
+    // tocify
+    var toc = $("#TOC").tocify(options).data("toc-tocify");
+});
+</script>
 
 <!-- dynamically load mathjax for compatibility with self-contained -->
 <script>
