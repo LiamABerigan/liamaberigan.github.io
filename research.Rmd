@@ -43,7 +43,7 @@ Recent focus on migratory bird declines have led to increased interest in how bi
 
 My doctoral dissertation used this dataset to meet 4 objectives :
 
-1. Development of a management prioritization tool for the Pennsylvania Game Commission, titled [W-PAST](https://woodcock.shinyapps.io/W-PAST) (see our summary on the [applications page](applications.html)).
+1. Development of a management prioritization tool for the Pennsylvania Game Commission, titled [W-PAST](https://woodcock.shinyapps.io/W-PAST).
 
 2. Creation of a classification system which uses modified hidden Markov models to estimate migratory states from sparse GPS data.
 
