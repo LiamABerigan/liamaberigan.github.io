@@ -334,7 +334,8 @@ div.tocify {
           <li><a href="index.html"><span class="fa fa-home"></span> Home</a></li>
           <li><a href="research.html"><span class="fa fa-feather"></span> Research</a></li>
           <li><a href="teaching.html"><span class="fa fa-book"></span> Teaching</a></li>
-          <li><a href="applications.html"><span class="fa fa-code"></span> Applications</a></li>
+          <li><a href="lab_group.html"><span class="fa fa-flask"></span> Lab Group</a></li>
+          <!--<li><a href="applications.html"><span class="fa fa-code"></span> Applications</a></li>-->
           <li><a href="files/Liam_Berigan_CV.pdf"><span class="fa fa-pen-nib"></span> CV</a></li>
         </ul>
     </div><!--/.nav-collapse -->
@@ -352,16 +353,25 @@ div.tocify {
 
 
 <hr />
-<div id="courses-taught" class="section level2">
-<h2>Courses taught</h2>
 <p>I specialize in teaching quantitative methods and statistics from an
-ecological perspective, including topics such as regression,
-mark-recapture, and population dynamics. However, some of my past
-teaching experiences have also included introductory biology and
-field-based taxonomic courses. While my approach might vary between
-different types of courses, the overview below is an example of how I
-might apply some common strategies to a scenario I’m familiar with:
-teaching population dynamics to undergraduates.</p>
+ecological perspective, including topics such as regression, population
+dynamics, and Bayesian statistics. I expect to begin teaching an
+undergraduate course in natural resources statistics (WILD 5750) in
+Spring 2026, with additional courses to follow.</p>
+<hr />
+<div id="consulting" class="section level2">
+<h2>Consulting</h2>
+<p>I offer informal statistical and quantitative consulting for graduate
+students and undergraduates working on honors thesis projects. Common
+topics include regression, ANOVA, machine learning, parallel computing,
+Shiny app development, and introductory Bayesian methods — though I’m
+happy to help with other areas as well. If you have any questions, feel
+free to stop by my office (Forestry Building, Room 2349) or send me an
+email.</p>
+<hr />
+</div>
+<div id="past-courses" class="section level2">
+<h2>Past courses</h2>
 <div
 style="background-color: #F6F6F6; border-radius: 10px; padding: 20px;">
 <p><strong>Instructor of Record</strong>:</p>
@@ -383,121 +393,6 @@ series)</p></li>
 Institute)</p></li>
 </ul>
 </div>
-<p><br></p>
-<hr />
-</div>
-<div id="teaching-quantitative-skills" class="section level2">
-<h2>Teaching quantitative skills</h2>
-<p>I’ve taught stats-based courses primarily through a lecture/lab
-hybrid format, where students receive a common introduction to concepts
-before breaking out into groups or working individually through a lab
-assignment. While teaching lab courses, I adopt the following
-strategies: <br></p>
-<ol style="list-style-type: decimal">
-<li><strong>Multimodal presentation of content</strong>: Equations are
-an essential part of any quantitative course, but they can be a
-stumbling block for many students. I work to improve student
-comprehension of mathematical notation by presenting it side-by-side
-with alternative explanations, usually using both text and
-illustrations. I also make a point to define every variable, every time,
-making as few assumptions as I can about what the student does/does not
-recall. For example, my course material might include the following
-description of an exponential growth model:</li>
-</ol>
-<div
-style="background-color: #F6F6F6; border-radius: 10px; padding: 20px;">
-<center>
-<strong>Exponential growth of a population</strong>
-</center>
-<p><span class="math display">\[N_{t+1} = N_{t} e^{r}\]</span></p>
-<p><strong>Variables:</strong></p>
-<ul>
-<li><p><span class="math inline">\(N_{t}\)</span>: Population size in
-year <em>t</em></p></li>
-<li><p><span class="math inline">\(N_{t+1}\)</span>: Population size in
-the next year (<span class="math inline">\(t+1\)</span>)</p></li>
-<li><p><span class="math inline">\(e\)</span>: Mathematical constant
-referred to as Euler’s number (pronounced ‘oiler’). Approximatly equal
-to 2.71828.</p></li>
-<li><p><span class="math inline">\(r\)</span>: Instantaneous population
-growth rate: the rate at which new individuals enter a population. When
-r = 0, no population growth occurs. If r &gt; 0, the population is
-growing, and if r &lt; 0, the population is shrinking.</p></li>
-</ul>
-<p><strong>Definition:</strong> The exponential growth model
-demonstrates how population growth accelerates when the number of
-individuals in the population increases. The more reproductively-active
-individuals you have within the population, the more new offspring
-you’ll have each year.</p>
-<p><span class="math inline">\(r\)</span> indicates how fast that
-population growth occurs: having lots of offspring or having a very low
-mortality rate could both lead to a high <span
-class="math inline">\(r\)</span>.</p>
-<p><strong>Demonstration:</strong> Let’s use a typical value of <span
-class="math inline">\(r\)</span> (<span class="math inline">\(r\)</span>
-= 0.1). At fairly small population sizes (<span
-class="math inline">\(N_{t}=5\)</span>), the population would grow
-slowly.</p>
-<p><span class="math display">\[N_{t}*e^{r}\]</span> <span
-class="math display">\[(5)*2.71828^{0.1} = 5.53\]</span></p>
-<p>Here, the population increased by only 0.53 individuals. Let’s see
-what happens if we increase <span class="math inline">\(N_{t}\)</span>
-to a much larger number (<span
-class="math inline">\(N_{t}=500\)</span>).</p>
-<p><span class="math display">\[N_{t}*e^{r}\]</span> <span
-class="math display">\[(500)*2.71828^{0.1} = 553.59\]</span></p>
-<p>Here, the population increased by 53.59 individuals. Increasing our
-starting population size by a factor of 10x increased the number of new
-individuals per year by the same factor. Here’s a graphical illustration
-of how this accelerating growth can compound over time, and drive
-populations to incredible sizes.</p>
-<center>
-<p><img src="teaching_files/figure-html/unnamed-chunk-1-1.png" width="480" /></p>
-</center>
-</div>
-<p><br></p>
-<ol start="2" style="list-style-type: decimal">
-<li><strong>Interactive use of statistics programs:</strong> I like to
-teach quantitative skills using a mix of two common statistics programs:
-Microsoft Excel and R. Excel has the benefit of familiarity, as most
-students have some experience with the program from high school or
-introductory college classes. It also allows for implementation of
-simple population models using notation that looks quite similar to the
-mathematical formulas in the book. R uses notation that looks less
-familiar, but allows for the implementation of more powerful models
-later on in the course. Asking students to complete a task in Excel, and
-then later to complete the same task in R, can reinforce basic concepts
-and provide a gentle introduction to statistical programming.</li>
-</ol>
-<p><br></p>
-<center>
-<div class="float">
-<img src="teaching_examples/excel_r_screenshot.png"
-alt=" Formula for exponential population growth, implemented using both Microsoft Excel and R. Teaching using both programs can reinforce basic concepts, and provide a good framework for an introduction to programming in R. " />
-<div class="figcaption"><br><font size = "2" color = "grey"><em>Formula
-for exponential population growth, implemented using both Microsoft
-Excel and R. Teaching using both programs can reinforce basic concepts,
-and provide a good framework for an introduction to programming in R.
-</em></font></div>
-</div>
-</center>
-<p><br></p>
-<ol start="3" style="list-style-type: decimal">
-<li><strong>Pacing:</strong> Everyone digests class material at a
-different pace, and some folks require more assistance than others. I’m
-especially conscious about the preconceptions that many students have
-about their ability to succeed in math courses, which can cause them to
-give up quickly if they do not receive assistance (<a
-href="https://files.eric.ed.gov/fulltext/EJ883874.pdf">Yates 2009</a>,
-<a
-href="https://researchcommons.waikato.ac.nz/server/api/core/bitstreams/c3388c55-f514-4b3a-a8a7-c12f7bc249bf/content">Whitten
-2018</a>). Lab formats allow students the flexibility to proceed at
-their own pace, and give me flexibility as an instructor to spend
-additional time with the students who need it most. In addition to
-office hours, I’ll often set individual meetings with students who I
-notice are falling behind to ensure that they have the assistance and
-encouragement they need to catch up.</li>
-</ol>
 </div>
 
 <br />
@@ -511,8 +406,8 @@ encouragement they need to catch up.</li>
 
 <div style="text-align: center; padding: 20px; background-color: #333; color: white;">
         <p>&copy; <span id="year"></span> Liam Berigan. All Rights Reserved.</p>
-        <p>Contact: <a href="mailto:liamaberigan@gmail.com" style="color: #fff;">liamaberigan@gmail.com</a></p>
-        <p>Phone: <a href="tel:+17038888284" style="color: #fff;"> (703) 888-8284</a></p>
+        <p>Contact: <a href="mailto:lib0016@auburn.edu" style="color: #fff;"> lib0016@auburn.edu</a></p>
+        <p>Phone: <a href="tel:+17038888284" style="color: #fff;"> (334) 844-1044</a></p>
         <p>
             <a href="https://www.researchgate.net/profile/Liam-Berigan" target="_blank" style="color: #fff; margin: 0 10px;">ResearchGate</a> |
             <a href="https://github.com/LiamABerigan" target="_blank" style="color: #fff; margin: 0 10px;">GitHub</a> |

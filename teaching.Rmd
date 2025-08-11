@@ -7,9 +7,20 @@ output:
       collapsed: true
       smooth_scroll: true
 ---
+
 <hr />
-## Courses taught
-I specialize in teaching quantitative methods and statistics from an ecological perspective, including topics such as regression, mark-recapture, and population dynamics. However, some of my past teaching experiences have also included introductory biology and field-based taxonomic courses. While my approach might vary between different types of courses, the overview below is an example of how I might apply some common strategies to a scenario I'm familiar with: teaching population dynamics to undergraduates.
+
+I specialize in teaching quantitative methods and statistics from an ecological perspective, including topics such as regression, population dynamics, and Bayesian statistics. I expect to begin teaching an undergraduate course in natural resources statistics (WILD 5750) in Spring 2026, with additional courses to follow.
+
+<hr />
+
+## Consulting
+
+I offer informal statistical and quantitative consulting for graduate students and undergraduates working on honors thesis projects. Common topics include regression, ANOVA, machine learning, parallel computing, Shiny app development, and introductory Bayesian methods — though I'm happy to help with other areas as well. If you have any questions, feel free to stop by my office (Forestry Building, Room 2349) or send me an email.
+
+<hr />
+
+## Past courses
 
 <div style="background-color: #F6F6F6; border-radius: 10px; padding: 20px;">
 
@@ -32,100 +43,3 @@ I specialize in teaching quantitative methods and statistics from an ecological 
 - Introduction to scientific data analysis (Cobscook Institute)
 
 </div>
-
-<br>
-
-<hr />
-
-## Teaching quantitative skills
-
-I've taught stats-based courses primarily through a lecture/lab hybrid format, where students receive a common introduction to concepts before breaking out into groups or working individually through a lab assignment. While teaching lab courses, I adopt the following strategies:
-<br>
-
-1. **Multimodal presentation of content**: Equations are an essential part of any quantitative course, but they can be a stumbling block for many students. I work to improve student comprehension of mathematical notation by presenting it side-by-side with alternative explanations, usually using both text and illustrations. I also make a point to define every variable, every time, making as few assumptions as I can about what the student does/does not recall. For example, my course material might include the following description of an exponential growth model:
-
-
-<div style="background-color: #F6F6F6; border-radius: 10px; padding: 20px;">
-
-<center>
-**Exponential growth of a population**
-</center>
-
-$$N_{t+1} = N_{t} e^{r}$$
-
-**Variables:**
-
-- $N_{t}$: Population size in year *t*
-
-- $N_{t+1}$: Population size in the next year ($t+1$)
-
-- $e$: Mathematical constant referred to as Euler's number (pronounced 'oiler'). Approximatly equal to 2.71828.
-
-- $r$: Instantaneous population growth rate: the rate at which new individuals enter a population. When r = 0, no population growth occurs. If r > 0, the population is growing, and if r < 0, the population is shrinking.
-
-**Definition:** The exponential growth model demonstrates how population growth accelerates when the number of individuals in the population increases. The more reproductively-active individuals you have within the population, the more new offspring you'll have each year.
-
-$r$ indicates how fast that population growth occurs: having lots of offspring or having a very low mortality rate could both lead to a high $r$.
-
-**Demonstration:** Let's use a typical value of $r$ ($r$ = 0.1). At fairly small population sizes ($N_{t}=5$), the population would grow slowly.
-
-$$N_{t}*e^{r}$$
-$$(5)*2.71828^{0.1} = 5.53$$
-
-Here, the population increased by only 0.53 individuals. Let's see what happens if we increase $N_{t}$ to a much larger number ($N_{t}=500$).
-
-$$N_{t}*e^{r}$$
-$$(500)*2.71828^{0.1} = 553.59$$
-
-Here, the population increased by 53.59 individuals. Increasing our starting population size by a factor of 10x increased the number of new individuals per year by the same factor. Here's a graphical illustration of how this accelerating growth can compound over time, and drive populations to incredible sizes.
-
-
-<center>
-
-```{r echo=FALSE, fig.height=5, fig.width=5, message=FALSE}
-library(tidyverse)
-library(ggtext)
-
-pop <- numeric(length = 50)
-pop[1] <- 5
-
-for(i in 2:50){
-  pop[i] <- pop[i-1]*(2.71828^0.1)
-}
-
-example_tbl <- tibble(index = 1:50, pop1 = pop)
-
-example_tbl %>% 
-  ggplot(aes(x = index, y = pop1)) +
-  geom_line() +
-  geom_point(size = 1) +
-  labs(x = "Year (*t*)", y = expression("Population size (N<sub>t</sub>)")) +
-  theme_bw() +
-  theme(axis.title.x = element_markdown(),
-        axis.title.y = element_markdown()) +
-  scale_x_continuous(limits = c(-10, 62), breaks = c(0, 10, 20, 30, 40, 50)) +
-  annotate("text", label = "At small population sizes, \ngrowth is slow", x = 18, y = 450, color = "darkblue") +
-  annotate("text", label = "As population size increases, \ngrowth increases rapidly", x = 18, y = 375, color = "darkred") + 
-  annotate("text", label = "32 new individuals \nin years 1-20", x = -2, y = 65, size = 3, color = "darkblue") +
-  annotate("text", label = "571 new individuals \nin years 31-50", x = 53, y = 70, size = 3, color = "darkred") +
-  annotate("errorbar", x = -2, ymin = 0, ymax = 31.94523, width = 2, color = "darkblue") +
-  annotate("errorbar", x = 53, ymin = 100.427482, ymax = 671.446685, width = 2, color = "darkred")
-```
-
-</center>
-
-</div>
-
-<br>
-
-2. **Interactive use of statistics programs:** I like to teach quantitative skills using a mix of two common statistics programs: Microsoft Excel and R. Excel has the benefit of familiarity, as most students have some experience with the program from high school or introductory college classes. It also allows for implementation of simple population models using notation that looks quite similar to the mathematical formulas in the book. R uses notation that looks less familiar, but allows for the implementation of more powerful models later on in the course. Asking students to complete a task in Excel, and then later to complete the same task in R, can reinforce basic concepts and provide a gentle introduction to statistical programming.
-
-<br>
-
-<center>
-![<br><font size = "2" color = "grey">*Formula for exponential population growth, implemented using both Microsoft Excel and R. Teaching using both programs can reinforce basic concepts, and provide a good framework for an introduction to programming in R. *</font>](teaching_examples/excel_r_screenshot.png)
-</center>
-
-<br>
-
-3. **Pacing:** Everyone digests class material at a different pace, and some folks require more assistance than others. I'm especially conscious about the preconceptions that many students have about their ability to succeed in math courses, which can cause them to give up quickly if they do not receive assistance ([Yates 2009](https://files.eric.ed.gov/fulltext/EJ883874.pdf), [Whitten 2018](https://researchcommons.waikato.ac.nz/server/api/core/bitstreams/c3388c55-f514-4b3a-a8a7-c12f7bc249bf/content)). Lab formats allow students the flexibility to proceed at their own pace, and give me flexibility as an instructor to spend additional time with the students who need it most. In addition to office hours, I'll often set individual meetings with students who I notice are falling behind to ensure that they have the assistance and encouragement they need to catch up.
