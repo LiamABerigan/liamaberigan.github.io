@@ -13,9 +13,9 @@ knitr::include_graphics("images/headshot_CO_circle.png")
 ```
 </div>
 <div class = col-md-8>
-I am an Assistant Professor of Quantitative Ecology at [Auburn University](https://www.auburn.edu), where I study the movements, habitat use, and population dynamics of wildlife. I am particularly interested in the wintering ecology of birds, especially those reliant on grasslands or fire-dependent ecosystems. Some of my past work includes [monitoring lesser prairie-chicken translocations](files/Berigan_LPCDispersal_2024.pdf), [building interactive habitat conservation tools](https://woodcock.shinyapps.io/W-PAST), and [modeling woodcock flight altitudes](files/Berigan_flight_altitudes_2025.pdf).
+I am an Assistant Professor of Quantitative Ecology at [Auburn University](https://www.auburn.edu), where I study the movements, habitat use, and population dynamics of wildlife. I am particularly interested in the wintering ecology of birds, especially those reliant on grasslands or early-successional vegetation. Some of my past work includes [monitoring lesser prairie-chicken translocations](files/Berigan_LPCDispersal_2024.pdf), [building interactive habitat conservation tools](https://woodcock.shinyapps.io/W-PAST), and [modeling woodcock flight altitudes](files/Berigan_flight_altitudes_2025.pdf).
 
-In addition to my research, I also provide statistical consulting within the College of Forestry, Wildlife, and Environment, and will teach WILD 5750 starting in Spring 2026.
+In addition to my research, I also provide statistical consulting within the College of Forestry, Wildlife, and Environment, and teach several courses on statistics and ecology.
 
 My CV is available [here](files/Liam_Berigan_CV.pdf), and I can be contacted via email <a href="mailto: lib0016@auburn.edu" target="_blank">here</a>.
 

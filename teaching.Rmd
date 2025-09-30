@@ -10,7 +10,7 @@ output:
 
 <hr />
 
-I specialize in teaching quantitative methods and statistics from an ecological perspective, including topics such as regression, population dynamics, and Bayesian statistics. I expect to begin teaching an undergraduate course in natural resources statistics (WILD 5750) in Spring 2026, with additional courses to follow.
+I specialize in teaching quantitative methods and statistics from an ecological perspective, including topics such as regression, population dynamics, and Bayesian statistics. I expect to teach Spatial Ecology (WILD 7870) in Spring 2026, and Advanced Analysis for Ecological Sciences (WILD 7150) in Fall 2026.
 
 <hr />
 
