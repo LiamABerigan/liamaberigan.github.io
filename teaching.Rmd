@@ -22,6 +22,8 @@ I specialize in teaching quantitative methods and statistics from an ecological 
 
 This graduate course provides a broad overview of the tools and techniques used to interpret spatial processes in ecology, ranging from point pattern analysis to conservation reserve design. For the final project, students conduct an independent spatial analysis on a topic related to their thesis or dissertation and prepare a manuscript based on their results. The course syllabus is available [here](files/syllabus_WILD7870.html).
 
+<hr />
+
 ## Consulting
 
 I offer informal statistical and quantitative consulting for graduate students and undergraduates working on honors thesis projects. Common topics include regression, ANOVA, machine learning, parallel computing, Shiny app development, and introductory Bayesian methods — though I'm happy to help with other areas as well. If you have any questions, feel free to stop by my office (Forestry Building, Room 2349) or send me an email.
