@@ -14,7 +14,41 @@ h3 {
 
 <hr />
 
-## Graduate positions
+## Open positions
+
+**Ph.D. Position: Avian movement modeling**
+
+The Berigan lab (https://liamaberigan.github.io) at Auburn University College of Forestry, Wildlife and Environment is hiring a PhD student to research quantitative methods for modeling animal movement. The successful applicant will apply Bayesian state-space models or related techniques to large datasets, including both GPS and Motus data, to build improved movement models for avian migration. We anticipate this position to be highly collaborative and will focus mostly on leveraging preexisting datasets. Fieldwork will be up to the discretion of the student but will likely be a minor component of the dissertation.
+
+*Minimum qualifications*:
+
+- Master’s degree (awarded or anticipated) in biology, statistics, or a related discipline
+
+- Extensive experience working with the programming language R
+
+- Strong communication skills in oral and written English
+
+- Ability to work independently and as part of an interdisciplinary team
+
+- Self-motivation, a positive attitude, and strong interpersonal skills
+
+*Desired qualifications*:
+
+- Strong background in statistics, especially Bayesian methods
+
+- Experience collecting and/or analyzing avian movement data, especially using the Motus network
+
+- Record of publication in peer-reviewed journals
+
+The successful applicant will be asked to apply to Auburn University’s College of Forestry, Wildlife and Environment for admission in Fall 2026, and will be expected to arrive prior to the first day of classes (August 17th). Note that GRE scores are not required for admission but may create opportunities for additional funding support (e.g., Auburn Presidential Graduate Opportunity Program). If you have GRE scores, please submit them as a part of your application package.
+
+*Compensation*: Stipend of $30,000 per year, plus a tuition waiver. 
+
+*How to apply*: Please email Dr. Liam Berigan (lib0016@auburn.edu) a single PDF document containing a 1) cover letter, 2) CV, 3) unofficial transcripts from all colleges attended, 4) GRE scores (if available), and 5) contact information for 3 professional references. Please title your email “PhD application” to ensure it is routed correctly. Application deadline is April 15th, but I encourage you to apply early as applications will be evaluated on a rolling basis until a suitable candidate is found. More information about our graduate program can be found here: https://cfwe.auburn.edu/graduate-study/graduate-degrees/.
+
+<br/>
+
+## Other graduate positions
 
 I am a faculty member in Auburn's College of Forestry, Wildlife, and Environment, which offers [M.S. and Ph.D. degrees in Wildlife Sciences](https://cfwestaging.wpenginepowered.com/graduate-study/graduate-degrees/). Graduate positions in my lab are fully funded (covering tuition and stipend), but availability is limited. Funding typically comes through two main pathways:
 
