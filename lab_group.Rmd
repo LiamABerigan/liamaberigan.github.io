@@ -16,9 +16,9 @@ h3 {
 
 ## Open positions
 
-**Ph.D. Position: Avian movement modeling**
+**Ph.D. Position: Avian movement modeling using Motus data**
 
-The Berigan lab (https://liamaberigan.github.io) at Auburn University College of Forestry, Wildlife and Environment is hiring a PhD student to research quantitative methods for modeling animal movement. The successful applicant will apply Bayesian state-space models or related techniques to large datasets, including both GPS and Motus data, to build improved movement models for avian migration. We anticipate this position to be highly collaborative and will focus mostly on leveraging preexisting datasets. Fieldwork will be up to the discretion of the student but will likely be a minor component of the dissertation.
+The Berigan lab (https://liamaberigan.github.io) at Auburn University College of Forestry, Wildlife and Environment is hiring a PhD student to research quantitative methods for modeling animal movement. The successful applicant will apply Bayesian state-space models or related techniques to large datasets, including both GPS and Motus data, to build improved movement models for avian migration. We anticipate this position to be highly collaborative and will focus mostly on leveraging preexisting datasets. While certain aspects of the project are well defined, there is considerable opportunity for the student to develop chapters that suite their own interests, especially in the realm of movement ecology. Fieldwork will be up to the discretion of the student, with example projects including Motus tag deployments on birds (e.g., Henslow’s Sparrows, American Woodcock) or drones.
 
 *Minimum qualifications*:
 
@@ -34,9 +34,11 @@ The Berigan lab (https://liamaberigan.github.io) at Auburn University College of
 
 *Desired qualifications*:
 
-- Strong background in statistics, especially Bayesian methods
+- Interest in statistics and quantitative methods, especially Bayesian hierarchical modeling
 
 - Experience collecting and/or analyzing avian movement data, especially using the Motus network
+
+- If fieldwork is of interest, experience handling and tagging birds
 
 - Record of publication in peer-reviewed journals
 
@@ -44,7 +46,7 @@ The successful applicant will be asked to apply to Auburn University’s College
 
 *Compensation*: Stipend of $30,000 per year, plus a tuition waiver. 
 
-*How to apply*: Please email Dr. Liam Berigan (lib0016@auburn.edu) a single PDF document containing a 1) cover letter, 2) CV, 3) unofficial transcripts from all colleges attended, 4) GRE scores (if available), and 5) contact information for 3 professional references. Please title your email “PhD application” to ensure it is routed correctly. Application deadline is April 15th, but I encourage you to apply early as applications will be evaluated on a rolling basis until a suitable candidate is found. More information about our graduate program can be found here: https://cfwe.auburn.edu/graduate-study/graduate-degrees/.
+*How to apply*: Please email Dr. Liam Berigan (lib0016@auburn.edu) a single PDF document containing a 1) cover letter, 2) CV, 3) unofficial transcripts from all colleges attended, 4) GRE scores (if available), and 5) contact information for 3 professional references. Please title your email “PhD application” to ensure it is routed correctly. Application deadline is April 21st, but I encourage you to apply early as applications will be evaluated on a rolling basis until a suitable candidate is found. More information about our graduate program can be found here: https://cfwe.auburn.edu/graduate-study/graduate-degrees/.
 
 <br/>
 
