@@ -16,37 +16,7 @@ h3 {
 
 ## Open positions
 
-**Ph.D. Position: Avian movement modeling using Motus data**
-
-The Berigan lab (https://liamaberigan.github.io) at Auburn University College of Forestry, Wildlife and Environment is hiring a PhD student to research quantitative methods for modeling animal movement. The successful applicant will apply Bayesian state-space models or related techniques to large datasets, including both GPS and Motus data, to build improved movement models for avian migration. We anticipate this position to be highly collaborative and will focus mostly on leveraging preexisting datasets. While certain aspects of the project are well defined, there is considerable opportunity for the student to develop chapters that suite their own interests, especially in the realm of movement ecology. Fieldwork will be up to the discretion of the student, with example projects including Motus tag deployments on birds (e.g., Henslow’s Sparrows, American Woodcock) or drones.
-
-*Minimum qualifications*:
-
-- Master’s degree (awarded or anticipated) in biology, statistics, or a related discipline
-
-- Extensive experience working with the programming language R
-
-- Strong communication skills in oral and written English
-
-- Ability to work independently and as part of an interdisciplinary team
-
-- Self-motivation, a positive attitude, and strong interpersonal skills
-
-*Desired qualifications*:
-
-- Interest in statistics and quantitative methods, especially Bayesian hierarchical modeling
-
-- Experience collecting and/or analyzing avian movement data, especially using the Motus network
-
-- If fieldwork is of interest, experience handling and tagging birds
-
-- Record of publication in peer-reviewed journals
-
-The successful applicant will be asked to apply to Auburn University’s College of Forestry, Wildlife and Environment for admission in Fall 2026, and will be expected to arrive prior to the first day of classes (August 17th). Note that GRE scores are not required for admission but may create opportunities for additional funding support (e.g., Auburn Presidential Graduate Opportunity Program). If you have GRE scores, please submit them as a part of your application package.
-
-*Compensation*: Stipend of $30,000 per year, plus a tuition waiver. 
-
-*How to apply*: Please email Dr. Liam Berigan (lib0016@auburn.edu) a single PDF document containing a 1) cover letter, 2) CV, 3) unofficial transcripts from all colleges attended, 4) GRE scores (if available), and 5) contact information for 3 professional references. Please title your email “PhD application” to ensure it is routed correctly. Application deadline is April 21st, but I encourage you to apply early as applications will be evaluated on a rolling basis until a suitable candidate is found. More information about our graduate program can be found here: https://cfwe.auburn.edu/graduate-study/graduate-degrees/.
+Next anticipated position will post in June or July (M.S. in grassland bird restoration). Details will be posted here, and on the job boards listed below.
 
 <br/>
 
