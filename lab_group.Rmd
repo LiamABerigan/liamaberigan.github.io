@@ -16,35 +16,7 @@ h3 {
 
 ## Open positions
 
-<br>
-
-#### **M.S. Position: Restoration of grassland bird habitat in Alabama’s Black Belt Prairie**
-
-The Berigan lab (https://liamaberigan.github.io) at Auburn University College of Forestry, Wildlife and Environment is hiring an M.S. student to conduct avian habitat evaluations for the Alabama Soil and Water Conservation Committee’s Black Belt Prairie Initiative (BBPI), a $17.5-million program aimed at restoring prairie throughout Alabama’s Black Belt Region. The student will conduct avian and vegetation surveys at partner properties throughout summer and winter to determine how grassland birds respond to cedar removal, seeding warm season grasses, and prescribed burning. The student’s thesis will include an evaluation of these practices, as well as other topics that might concern grassland bird ecology and conservation in the southeastern U.S. Potential topics might include the landscape-scale impacts of conservation practices, evaluations of the current distribution of prairie within the Black Belt region, or modeling the distribution of rare species associated with grassland habitats.
-
-**Minimum qualifications:**  
-- Bachelor’s degree (awarded or anticipated) in biology, wildlife ecology, or a related discipline  
-- Ability to identify birds of the southeastern U.S. by sight and sound  
-- Possess a valid driver’s license  
-- Strong communication skills in oral and written English  
-- Ability to work independently and as part of an interdisciplinary team  
-- Self-motivation, a positive attitude, and strong interpersonal skills  
-
-**Desired qualifications:**  
-- Introductory experience with the programming language R  
-- Experience with plant identification and surveys  
-- Experience with GIS  
-- Comfort living and working in rural areas  
-- Ability to develop positive relationships with private landowners and collaborators while coordinating access to private land  
-
-The successful applicant will be asked to apply to Auburn University’s College of Forestry, Wildlife and Environment for admission in Spring 2027. While classes begin on January 6th, the applicant would be expected to arrive prior to the start of the semester (Dec. 7th) to conduct fieldwork for the winter 26/27 season.
-
-*International applicants:* Please reference Auburn’s requirements for international admission to the Graduate School: https://graduate.auburn.edu/admissions/international-instructions.php. Most international students should plan to submit a language proficiency test score as a part of their application package; acceptable tests include the Test of English as a Foreign Language (TOEFL), the International English Language Testing System (IELTS), or the Duolingo English Test (DET). Exceptions may be made on a case-by-case basis (e.g., previously awarded a degree from a U.S. college, or coming from a country where English is the primary spoken language).
-
-**Compensation:** Stipend of $22,600 per year, plus a tuition waiver. 
-
-**How to apply:** Please email Dr. Liam Berigan (lib0016@auburn.edu) a single PDF document containing a 1) cover letter, 2) CV, 3) unofficial transcripts from all colleges attended, 4) GRE scores (if available), 5) language proficiency test scores (international applicants only), and 6) contact information for 3 professional references. Please title your email “Black Belt MS application” to ensure it is routed correctly. Application deadline is July 14th, but I encourage you to apply early as applications will be evaluated on a rolling basis until a suitable candidate is found. More information about our graduate program can be found here: https://cfwe.auburn.edu/graduate-study/graduate-degrees/.
-
+No positions are currently open. I currently anticipate hiring at least one more doctoral student for spring 2026: that opportunity will be posted here in mid- to late-July. Other positions may be posted throughout the late summer and fall depending on funding availability.
 
 <br/>
 
