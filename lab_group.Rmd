@@ -34,28 +34,28 @@ Email: [lib0016@auburn.edu](mailto:lib0016@auburn.edu)
 </div>
 </div>
 
-<hr />
+<!-- <hr /> -->
 
-## Postdocs
+<!-- ## Postdocs -->
 
-<br>
-<div class = "row">
-<div class = "col-md-4 hidden-xs hidden-sm">
+<!-- <br> -->
+<!-- <div class = "row"> -->
+<!-- <div class = "col-md-4 hidden-xs hidden-sm"> -->
 
-<center>
-![<br><font size = "4" >*Hannah Wright*</font>](images/headshot_CO_circle.png)
-</center>
-</div>
+<!-- <center> -->
+<!-- ![<br><font size = "4" >*Hannah Wright*</font>](images/headshot_CO_circle.png) -->
+<!-- </center> -->
+<!-- </div> -->
 
-<div class = "col-md-8 col-sm-12">
+<!-- <div class = "col-md-8 col-sm-12"> -->
 
-<div style="background-color: #F6F6F6; border-radius: 10px; padding: 20px;">
+<!-- <div style="background-color: #F6F6F6; border-radius: 10px; padding: 20px;"> -->
 
-Hannah Wright, currently a doctoral student at the University of Georgia, will be joining us as a postdoc in Spring 2027. Her research will focus on the development of tools for modeling Motus data and facilitating growth of the network.
+<!-- Hannah Wright, currently a doctoral student at the University of Georgia, will be joining us as a postdoc in Spring 2027. Her research will focus on the development of tools for modeling Motus data and facilitating growth of the network. -->
 
-</div>
-</div>
-</div>
+<!-- </div> -->
+<!-- </div> -->
+<!-- </div> -->
 
 <hr />
 
@@ -98,6 +98,8 @@ Rachel Brodman will be joining us as a M.S. student in Spring 2027. Her research
 <div style="background-color: #F6F6F6; border-radius: 10px; padding: 20px;">
 
 Meredith Lewis is a doctoral candidate at the University of Delaware, where she researches migratory ecology using radar and automated recording units. She is also a prolific bird bander, having banded thousands of birds among dozens of taxa. She manages federal bird banding permits for the lab, and is a frequent collaborator on field research projects.
+
+Email: [merlewis@udel.edu](mailto:merlewis@udel.edu)
 
 </div>
 </div>

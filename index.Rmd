@@ -14,7 +14,7 @@ knitr::include_graphics("images/headshot_CO_circle.png")
 </div>
 <div class = col-md-8>
 
-The Berigan Lab at Auburn University's [College of Forestry, Wildlife and Environment](https://cfwe.auburn.edu) studies the movements, habitat use, and population dynamics of wildlife. Our research often involves the wintering ecology of birds, especially those reliant on grasslands or early-successional vegetation. Many of our projects also take a quantitative bent, focusing on new analytical techniques that can be applied to common problems in ornithology and wildlife management.
+The Berigan Lab at Auburn University's [College of Forestry, Wildlife and Environment](https://cfwe.auburn.edu) studies the movements, habitat use, and population dynamics of wildlife. Much of our research focuses on the wintering ecology of birds, especially those reliant on grasslands or frequent disturbance regimes. Many of our projects also use advanced quantitative techniques, seeking new ways to apply these tools to common problems in ornithology and wildlife management.
 
 We're currently starting several new graduate/post-graduate research projects, including 1) an evaluation of grassland restoration practices in Alabama's Black Belt Prairie; 2) development of tools for modeling Motus data and facilitating growth of the network; and 3) examining umbrella species concepts using automated radio telemetry. Some of these positions are currently hiring: consider [joining us](opportunities.html)!
 
