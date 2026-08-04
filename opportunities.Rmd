@@ -25,7 +25,35 @@ Our lab is located in Auburn's College of Forestry, Wildlife and Environment, wh
 <br/>
 
 ### Current openings
-No project-specific funding positions are currently open. We currently anticipate hiring at least one more doctoral student for Spring 2027: that opportunity will be posted here in early August. Other positions may be posted throughout the late summer and fall depending on funding availability.
+**Ph.D. Position: Studying avian ecology using automated telemetry systems**
+
+The Berigan lab (https://liamaberigan.github.io) at Auburn University College of Forestry, Wildlife and Environment is hiring a PhD student to study avian community and breeding ecology in collaboration with the University of Rhode Island (URI). The successful applicant will lead a project with two elements: 
+
+1) *Local automated radiotelemetry*. The student will use data from a local automated radiotelemetry network, run by the University of Rhode Island, to study a variety of bird species using early successional habitat. The student’s dissertation will include an assessment of methodologies for modeling bird movements using these platforms and will address basic ecological questions about the effect of game species management on non-game birds.
+
+2) *Migratory tracking of grassland birds*. The student will assist in deploying Motus transmitters on grassland birds in Alabama’s Black Belt Prairie ecoregion, with the aim of delineating migratory connectivity and examining declines in grassland bird populations.
+
+Minimum qualifications:
+
+- Master’s degree (awarded or anticipated) in biology or a related discipline. This requirement may be waived for exceptional candidates.
+- Experience working with the programming language R
+- Demonstrated interest in avian ecology
+- Strong communication skills in oral and written English
+- Ability to work independently and as part of an interdisciplinary team
+- Self-motivation, a positive attitude, and strong interpersonal skills
+
+Desired qualifications:
+
+- Interest in collecting and/or analyzing avian movement data, especially using the Motus network
+- Experience handling and banding birds, and particularly transmitter application
+- Record of publication, or efforts towards publication in peer-reviewed journals
+
+The successful applicant will be asked to apply to Auburn University’s College of Forestry, Wildlife and Environment for admission in Spring 2027, and will be expected to arrive prior to the first day of classes (January 6th). Note that GRE scores are not required for admission but may create opportunities for additional funding support (e.g., Auburn Presidential Graduate Opportunity Program). If you have GRE scores, please submit them as a part of your application package.
+
+Compensation: Stipend of $28,000 per year, plus a tuition waiver. 
+
+How to apply: Please email Dr. Liam Berigan (lib0016@auburn.edu) a single PDF document containing a 1) cover letter, 2) CV, 3) unofficial transcripts from all colleges attended, 4) GRE scores (if available), and 5) contact information for 3 professional references. Please title your email “PhD application: [your name]” to ensure it is routed correctly. Application deadline is August 31st, but I encourage you to apply early as applications will be evaluated on a rolling basis until a suitable candidate is found. More information about our graduate program can be found here: https://cfwe.auburn.edu/graduate-study/graduate-degrees/.
+
 
 <br/>
 
