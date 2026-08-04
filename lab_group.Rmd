@@ -4,28 +4,101 @@ output:
   html_document:
     toc: true
     toc_float:
+      collapsed: true
       smooth_scroll: true
 ---
-```{css, echo=FALSE}
-h3 {
-  text-align: center;
-}
-```
+
+<hr />
+## Primary investigator
+
+<br>
+<div class = "row">
+<div class = "col-md-4 hidden-xs hidden-sm">
+
+<center>
+![<br><font size = "4" >*Liam Berigan, Ph.D.*</font>](images/headshot_CO_circle.png)
+</center>
+</div>
+
+<div class = "col-md-8 col-sm-12">
+
+<div style="background-color: #F6F6F6; border-radius: 10px; padding: 20px;">
+
+Dr. Liam Berigan is an Assistant Professor of Quantitative Ecology at [Auburn University](https://www.auburn.edu). He specializes in avian and movement ecology, with a particular focus on questions with immediate implications for conservation and management. Some of his past work includes [monitoring lesser prairie-chicken translocations](files/Berigan_LPCDispersal_2024.pdf), [building interactive habitat conservation tools](https://woodcock.shinyapps.io/W-PAST), and [modeling woodcock flight altitudes](files/Berigan_flight_altitudes_2025.pdf).
+
+In addition to his research, he also provides statistical consulting within the College of Forestry, Wildlife and Environment, and teaches several courses on statistics and ecology.
+
+Email: [lib0016@auburn.edu](mailto:lib0016@auburn.edu)
+
+</div>
+</div>
+</div>
 
 <hr />
 
-## Open positions
+## Postdocs
 
-No positions are currently open. I currently anticipate hiring at least one more doctoral student for spring 2027: that opportunity will be posted here in mid- to late-July. Other positions may be posted throughout the late summer and fall depending on funding availability.
+<br>
+<div class = "row">
+<div class = "col-md-4 hidden-xs hidden-sm">
 
-<br/>
+<center>
+![<br><font size = "4" >*Hannah Wright*</font>](images/headshot_CO_circle.png)
+</center>
+</div>
 
-## Other graduate positions
+<div class = "col-md-8 col-sm-12">
 
-I am a faculty member in Auburn's College of Forestry, Wildlife, and Environment, which offers [M.S. and Ph.D. degrees in Wildlife Sciences](https://cfwestaging.wpenginepowered.com/graduate-study/graduate-degrees/). Graduate positions in my lab are fully funded (covering tuition and stipend), but availability is limited. Funding typically comes through two main pathways:
+<div style="background-color: #F6F6F6; border-radius: 10px; padding: 20px;">
 
-1. *Project-specific funding*. Most wildlife graduate positions are tied to externally funded research projects. In these cases, collaborators provide funding to support a graduate student who will lead fieldwork and conduct data analysis on an established research question. When available, these opportunities will be posted here and on [Texas A&M's Natural Resources Job Board](https://jobs.rwfm.tamu.edu) and the [Ornithology Exchange](https://ornithologyexchange.org/jobs/board/).
+Hannah Wright, currently a doctoral student at the University of Georgia, will be joining us as a postdoc in Spring 2027. Her research will focus on the development of tools for modeling Motus data and facilitating growth of the network.
 
-2. *Student-specific funding*. Some competitive fellowships provide funding directly to students, offering greater flexibility in research topics. The most notable of these is the [NSF Graduate Research Fellowship Program](https://www.nsf.gov/funding/opportunities/grfp-nsf-graduate-research-fellowship-program). These fellowships are highly competitive, but I'm happy to collaborate with prospective students on applications when our research interests align.
+</div>
+</div>
+</div>
 
 <hr />
+
+## Graduate students
+
+<br>
+<div class = "row">
+<div class = "col-md-4 hidden-xs hidden-sm">
+
+<center>
+![<br><font size = "4" >*Rachel Brodman*</font>](images/headshot_CO_circle.png)
+</center>
+</div>
+
+<div class = "col-md-8 col-sm-12">
+
+<div style="background-color: #F6F6F6; border-radius: 10px; padding: 20px;">
+
+Rachel Brodman will be joining us as a M.S. student in Spring 2027. Her research will focus on an evaluation of grassland restoration practices in Alabama's Black Belt Prairie.
+
+</div>
+</div>
+</div>
+
+<hr />
+
+## Friends of the lab
+
+<br>
+<div class = "row">
+<div class = "col-md-4 hidden-xs hidden-sm">
+
+<center>
+![<br><font size = "4" >*Meredith Lewis*</font>](images/lab_group/meredith_osprey_circle.png)
+</center>
+</div>
+
+<div class = "col-md-8 col-sm-12">
+
+<div style="background-color: #F6F6F6; border-radius: 10px; padding: 20px;">
+
+Meredith Lewis is a doctoral candidate at the University of Delaware, where she researches migratory ecology using radar and automated recording units. She is also a prolific bird bander, having banded thousands of birds among dozens of taxa. She manages federal bird banding permits for the lab, and is a frequent collaborator on field research projects.
+
+</div>
+</div>
+</div>

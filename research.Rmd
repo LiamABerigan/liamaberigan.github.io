@@ -7,6 +7,9 @@ output:
       collapsed: true
       smooth_scroll: true
 ---
+
+*Note: As students and postdocs are starting in Spring 2027, this section primarily reflects Dr. Berigan's past work at other institutions. More details on our current research projects will be added shortly!*
+
 <hr />
 ## Population dynamics and occupancy
 <br>

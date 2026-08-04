@@ -11,7 +11,7 @@
 
 
 
-<title>Liam A. Berigan</title>
+<title>Opportunities</title>
 
 <script src="site_libs/header-attrs-2.31/header-attrs.js"></script>
 <script src="site_libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
@@ -29,6 +29,9 @@
        h6 {font-size: 12px;}
        code {color: inherit; background-color: rgba(0, 0, 0, 0.04);}
        pre:not([class]) { background-color: white }</style>
+<script src="site_libs/jqueryui-1.13.2/jquery-ui.min.js"></script>
+<link href="site_libs/tocify-1.9.1/jquery.tocify.css" rel="stylesheet" />
+<script src="site_libs/tocify-1.9.1/jquery.tocify.js"></script>
 <script src="site_libs/navigation-1.1/tabsets.js"></script>
 <link href="site_libs/highlightjs-9.12.0/default.css" rel="stylesheet" />
 <script src="site_libs/highlightjs-9.12.0/highlight.js"></script>
@@ -231,6 +234,69 @@ $(document).ready(function () {
 
 
 
+<style type="text/css">
+
+#TOC {
+  margin: 25px 0px 20px 0px;
+}
+@media (max-width: 768px) {
+#TOC {
+  position: relative;
+  width: 100%;
+}
+}
+
+@media print {
+.toc-content {
+  /* see https://github.com/w3c/csswg-drafts/issues/4434 */
+  float: right;
+}
+}
+
+.toc-content {
+  padding-left: 30px;
+  padding-right: 40px;
+}
+
+div.main-container {
+  max-width: 1200px;
+}
+
+div.tocify {
+  width: 20%;
+  max-width: 260px;
+  max-height: 85%;
+}
+
+@media (min-width: 768px) and (max-width: 991px) {
+  div.tocify {
+    width: 25%;
+  }
+}
+
+@media (max-width: 767px) {
+  div.tocify {
+    width: 100%;
+    max-width: none;
+  }
+}
+
+.tocify ul, .tocify li {
+  line-height: 20px;
+}
+
+.tocify-subheader .tocify-item {
+  font-size: 0.90em;
+}
+
+.tocify .list-group-item {
+  border-radius: 0px;
+}
+
+
+</style>
+
+
 
 </head>
 
@@ -238,6 +304,16 @@ $(document).ready(function () {
 
 
 <div class="container-fluid main-container">
+
+
+<!-- setup 3col/9col grid for toc_float and main content  -->
+<div class="row">
+<div class="col-xs-12 col-sm-4 col-md-3">
+<div id="TOC" class="tocify">
+</div>
+</div>
+
+<div class="toc-content col-xs-12 col-sm-8 col-md-9">
 
 
 
@@ -272,81 +348,75 @@ $(document).ready(function () {
 
 
 
-<h1 class="title toc-ignore">Liam A. Berigan</h1>
+<h1 class="title toc-ignore">Opportunities</h1>
 
 </div>
 
 
-<style> h1.title {display: none;}</style>
-<br>
-<div class="row">
-<div class="col-md-4 col-sm-4 col-xs-4">
-<p><img src="images/headshot_CO_circle.png" alt="" style="display: block; margin: auto;" /></p>
-</div>
-<div class="col-md-8">
-<p>The Berigan Lab at Auburn University’s <a
-href="https://cfwe.auburn.edu">College of Forestry, Wildlife and
-Environment</a> studies the movements, habitat use, and population
-dynamics of wildlife. Our research often involves the wintering ecology
-of birds, especially those reliant on grasslands or early-successional
-vegetation. Many of our projects also take a quantitative bent, focusing
-on new analytical techniques that can be applied to common problems in
-ornithology and wildlife management.</p>
-<p>We’re currently starting several new graduate/post-graduate research
-projects, including 1) an evaluation of grassland restoration practices
-in Alabama’s Black Belt Prairie; 2) development of tools for modeling
-Motus data and facilitating growth of the network; and 3) examining
-umbrella species concepts using automated radio telemetry. Some of these
-positions are currently hiring: consider <a
-href="opportunities.html">joining us</a>!</p>
-<p><strong>Research news:</strong></p>
-<p><a
-href="https://www.al.com/news/montgomery/2025/11/new-175-million-initiative-aims-to-restore-alabama-black-belt-prairie-good-for-land-and-people.html">Nov. 27,
-2025: New $17.5-million initiative aims to restore Black Belt
-Prairie</a></p>
-</div>
-</div>
+<style type="text/css">
+h3 {
+  text-align: center;
+}
+</style>
 <hr />
-<div class="col-md-6">
-<div class="row hidden-xs hidden-sm">
-<center>
-<div class="float">
-<img src="images/VT_collaborators.jpg" style="width:85.0%"
-alt="Deploying satellite transmitters in collaboration with Vermont Fish and Wildlife, Audubon Vermont, and The Nature Conservancy" />
-<div class="figcaption"><font size = "2" color = "grey"><em>Deploying
-satellite transmitters in collaboration with Vermont Fish and Wildlife,
-Audubon Vermont, and The Nature Conservancy</em></font></div>
+<div id="graduate-positions" class="section level2">
+<h2>Graduate positions</h2>
+<p>Our lab is located in Auburn’s College of Forestry, Wildlife and
+Environment, which offers <a
+href="https://cfwestaging.wpenginepowered.com/graduate-study/graduate-degrees/">M.S.
+and Ph.D. degrees in Wildlife Sciences</a>. Graduate positions in the
+lab are fully funded (covering tuition and stipend), but availability is
+limited. Funding typically comes through two main pathways:</p>
+<ol style="list-style-type: decimal">
+<li><p><em>Project-specific funding</em>. Most wildlife graduate
+positions are tied to externally funded research projects. In these
+cases, collaborators provide funding to support a graduate student who
+will lead fieldwork and conduct data analysis on an established research
+question. When available, these opportunities will be posted below, and
+on <a href="https://jobs.rwfm.tamu.edu">Texas A&amp;M’s Natural
+Resources Job Board</a> and the <a
+href="https://ornithologyexchange.org/jobs/board/">Ornithology
+Exchange</a>.</p></li>
+<li><p><em>Student-specific funding</em>. Some competitive fellowships
+provide funding directly to students, offering greater flexibility in
+research topics. The most notable of these is the <a
+href="https://www.nsf.gov/funding/opportunities/grfp-nsf-graduate-research-fellowship-program">NSF
+Graduate Research Fellowship Program</a>. These fellowships are highly
+competitive, but we’re happy to collaborate with prospective students on
+applications when our research interests align.</p></li>
+</ol>
+<p><br/></p>
+<div id="current-openings" class="section level3">
+<h3>Current openings</h3>
+<p>No project-specific funding positions are currently open. We
+currently anticipate hiring at least one more doctoral student for
+Spring 2027: that opportunity will be posted here in early August. Other
+positions may be posted throughout the late summer and fall depending on
+funding availability.</p>
+<p><br/></p>
+<hr />
 </div>
-</center>
-<p><br></p>
 </div>
+<div id="undergraduate-opportunities" class="section level2">
+<h2>Undergraduate opportunities</h2>
+<p>Any undergraduate students at Auburn who are interested in becoming
+involved in the lab are encouraged to get in touch. Involvement might
+include volunteering, pursuing an independent research project, or
+applying for an <a
+href="https://our.auburn.edu/undergraduate-research-fellowship/">Undergraduate
+Research Fellowship</a>. Feel free to send Dr. Berigan an <a
+href="mailto:lib0016@auburn.edu">email</a> outlining your research
+interests and he’d be happy to set a meeting to talk more about
+potential projects that might be a good fit.</p>
+<p><br/></p>
+<hr />
 </div>
-<div class="col-md-6">
-<div class="row-md-6 hidden-xs hidden-sm">
-<center>
-<div class="float">
-<img src="images/chipped_nail_polish.jpg" style="width:72.5%"
-alt="Woodcock about to be tagged with a satellite transmitter in Nova Scotia" />
-<div class="figcaption"><font size = "2" color = "grey"><em>Woodcock
-about to be tagged with a satellite transmitter in Nova
-Scotia</em></font></div>
+<div id="seasonal-work-opportunities" class="section level2">
+<h2>Seasonal work opportunities</h2>
+<p>Our lab frequently hires seasonal technicians for large field
+projects, but those positions are dependent on project-specific funding.
+We will post those positions here as they become available.</p>
 </div>
-</center>
-</div>
-<div class="row-md-6">
-<br>
-<center>
-<div class="float">
-<img src="images/migration_spring_2020.gif"
-alt="Woodcock tagged throughout the US and Canada migrate north in Spring 2020" />
-<div class="figcaption"><font size = "2" color = "grey"><em>Woodcock
-tagged throughout the US and Canada migrate north in Spring
-2020</em></font></div>
-</div>
-</center>
-</div>
-</div>
-<p><br></p>
 
 <br />
 <br />
@@ -375,6 +445,8 @@ tagged throughout the US and Canada migrate north in Spring
 <div class="tocify-extend-page" data-unique="tocify-extend-page" style="height: 0;"></div>
 
 
+</div>
+</div>
 
 </div>
 
@@ -407,6 +479,35 @@ $(document).ready(function () {
 
 <!-- code folding -->
 
+<script>
+$(document).ready(function ()  {
+
+    // temporarily add toc-ignore selector to headers for the consistency with Pandoc
+    $('.unlisted.unnumbered').addClass('toc-ignore')
+
+    // move toc-ignore selectors from section div to header
+    $('div.section.toc-ignore')
+        .removeClass('toc-ignore')
+        .children('h1,h2,h3,h4,h5').addClass('toc-ignore');
+
+    // establish options
+    var options = {
+      selectors: "h1,h2,h3",
+      theme: "bootstrap3",
+      context: '.toc-content',
+      hashGenerator: function (text) {
+        return text.replace(/[.\\/?&!#<>]/g, '').replace(/\s/g, '_');
+      },
+      ignoreSelector: ".toc-ignore",
+      scrollTo: 0
+    };
+    options.showAndHide = true;
+    options.smoothScroll = true;
+
+    // tocify
+    var toc = $("#TOC").tocify(options).data("toc-tocify");
+});
+</script>
 
 <!-- dynamically load mathjax for compatibility with self-contained -->
 <script>

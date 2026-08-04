@@ -10,7 +10,7 @@ output:
 
 <hr />
 
-I specialize in teaching quantitative methods and statistics from an ecological perspective, including topics such as regression, population dynamics, and Bayesian statistics.
+Dr. Berigan specializes in teaching quantitative methods and statistics from an ecological perspective, including topics such as regression, population dynamics, and Bayesian statistics. Descriptions of some of these courses are included below.
 
 <hr />
 
@@ -36,4 +36,4 @@ This graduate course provides a broad overview of the tools and techniques used 
 
 ## Consulting
 
-I offer informal statistical and quantitative consulting for graduate students and undergraduates working on honors thesis projects. Common topics include regression, ANOVA, machine learning, parallel computing, Shiny app development, and introductory Bayesian methods — though I'm happy to help with other areas as well. If you have any questions, feel free to stop by my office (Forestry Building, Room 2349) or send me an email.
+Dr. Berigan offers informal statistical and quantitative consulting for graduate students and undergraduates working on independent projects. Common topics include regression, ANOVA, machine learning, parallel computing, Shiny app development, and introductory Bayesian methods — though other topics are also welcome. If you have any questions, feel free to stop by his office (Forestry Building, Room 2349) or send him an email.

@@ -1,0 +1,44 @@
+---
+title: "Opportunities"
+output:
+  html_document:
+    toc: true
+    toc_float:
+      smooth_scroll: true
+---
+```{css, echo=FALSE}
+h3 {
+  text-align: center;
+}
+```
+
+<hr />
+
+## Graduate positions
+
+Our lab is located in Auburn's College of Forestry, Wildlife and Environment, which offers [M.S. and Ph.D. degrees in Wildlife Sciences](https://cfwestaging.wpenginepowered.com/graduate-study/graduate-degrees/). Graduate positions in the lab are fully funded (covering tuition and stipend), but availability is limited. Funding typically comes through two main pathways:
+
+1. *Project-specific funding*. Most wildlife graduate positions are tied to externally funded research projects. In these cases, collaborators provide funding to support a graduate student who will lead fieldwork and conduct data analysis on an established research question. When available, these opportunities will be posted below, and on [Texas A&M's Natural Resources Job Board](https://jobs.rwfm.tamu.edu) and the [Ornithology Exchange](https://ornithologyexchange.org/jobs/board/).
+
+2. *Student-specific funding*. Some competitive fellowships provide funding directly to students, offering greater flexibility in research topics. The most notable of these is the [NSF Graduate Research Fellowship Program](https://www.nsf.gov/funding/opportunities/grfp-nsf-graduate-research-fellowship-program). These fellowships are highly competitive, but we're happy to collaborate with prospective students on applications when our research interests align.
+
+<br/>
+
+### Current openings
+No project-specific funding positions are currently open. We currently anticipate hiring at least one more doctoral student for Spring 2027: that opportunity will be posted here in early August. Other positions may be posted throughout the late summer and fall depending on funding availability.
+
+<br/>
+
+<hr />
+
+## Undergraduate opportunities
+
+Any undergraduate students at Auburn who are interested in becoming involved in the lab are encouraged to get in touch. Involvement might include volunteering, pursuing an independent research project, or applying for an [Undergraduate Research Fellowship](https://our.auburn.edu/undergraduate-research-fellowship/). Feel free to send Dr. Berigan an [email](mailto:lib0016@auburn.edu) outlining your research interests and he'd be happy to set a meeting to talk more about potential projects that might be a good fit.
+
+<br/>
+
+<hr />
+
+## Seasonal work opportunities
+
+Our lab frequently hires seasonal technicians for large field projects, but those positions are dependent on project-specific funding. We will post those positions here as they become available.
