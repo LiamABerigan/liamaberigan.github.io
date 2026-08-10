@@ -1,5 +1,5 @@
 ---
-title: "Liam A. Berigan"
+title: "Berigan Lab"
 output:
   html_document
 ---
