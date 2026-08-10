@@ -56,6 +56,10 @@ img {
     .navbar-collapse.collapse.in {
         display: block !important;
     }
+    .navbar-collapse.in {
+        overflow-y: visible;
+        max-height: none;
+    }
     .navbar-nav {
         float: none !important;
     }
