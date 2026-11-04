@@ -14,11 +14,25 @@ Dr. Berigan specializes in teaching quantitative methods and statistics from an 
 
 <hr />
 
+## Wildlife Sampling & Monitoring
+
+**Course number**: WILD 4790 (3 credits)
+
+**Prerequisite**: [WILD 3280](https://bulletin.auburn.edu/coursesofinstruction/wild/)
+
+**Next taught**: Spring 2027
+
+An experiential learning course aimed at providing an introduction to experimental design, field techniques, and parameter estimation for wildlife monitoring studies. Labs include bird banding, avian point counts, nest box checks, museum visits, and radiotelemetry demonstrations. Recommended for juniors and seniors; counts as a population elective towards the Wildlife Ecology and Management major.
+
+<hr />
+
 ## Advanced Analysis for Ecological Sciences
 
 **Course number**: [WILD 7150](https://bulletin.auburn.edu/coursesofinstruction/wild/) (4 credits)
 
-**Next taught**: Fall 2026
+**Prerequisite**: [WILD 5750](https://bulletin.auburn.edu/coursesofinstruction/wild/), or a similar inferential statistics course
+
+**Next taught**: Fall 2027
 
 Advanced training in the application of analytical procedures to ecological (and other) sciences, such as the analysis and modeling of survival, reproduction, habitat selection, population growth, density-dependence, and morphometrics. The course emphasizes model building and evaluation. The course syllabus is available [here](files/syllabus_WILD_7150.pdf).
 
