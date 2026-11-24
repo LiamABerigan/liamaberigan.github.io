@@ -97,7 +97,7 @@ Rachel Brodman is a New York native and earned her B.S. in Environmental Biology
 
 <div style="background-color: #F6F6F6; border-radius: 10px; padding: 20px;">
 
-Meredith Lewis is currently a PhD Candidate at the University of Delaware where she studies migration ecology across scales using a combination of weather surveillance radar and automated recording units. Her broad research interests encompass bird migration, community ecology, and avian ecology and conservation throughout the annual cycle. Previously she investigated rail migration using the Motus Wildlife Tracking System and she continues to contribute to bird research in the mid-Atlantic. An experienced bird bander across diverse avian taxa, Meredith has helped lead multiple banding operations and contributed to bander education on passerine molt and aging. Meredith helps manage banding permits for the lab and is a frequent collaborator on field projects.
+Meredith Lewis is currently a PhD Candidate at the University of Delaware where she studies migration ecology across scales using a combination of weather surveillance radar and automated recording units. Her broad research interests encompass bird migration, community ecology, and avian ecology and conservation throughout the annual cycle. Previously she investigated rail migration using the Motus Wildlife Tracking System and she continues to contribute to bird research in the mid-Atlantic. Meredith holds a Master Bander permit from the U.S. Geological Survey, and field projects within the lab are often subpermitted under her supervision.
 
 Email: [merlewis@udel.edu](mailto:merlewis@udel.edu)
 
